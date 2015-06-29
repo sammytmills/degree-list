@@ -1,0 +1,3790 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="degree-list.xsl"?>
+
+<degrees>
+
+<degree>
+<bp>BS</bp>
+<dp>PhD </dp>
+<id>ee4b240f7f4f4e1a010c986053a5394b</id>
+<letter>A</letter>
+<link>http://www.kelley.iu.edu/accounting/</link>
+<mp>MSA, MBA</mp>
+<name>Accounting</name>
+<school>Kelley School of Business</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp>PhD </dp>
+<id>ee4c76527f4f4e1a010c9860d639e584 </id>
+<letter>A</letter>
+<link>http://www.publichealth.indiana.edu/departments/kinesiology/degrees/index.shtml</link>
+<mp>MS</mp>
+<name>Adapted Physical Education </name>
+<school>School of Public Health—Bloomington</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp> </dp>
+<id>f1fd69a17f4f4e1a010c986047aa4fef </id>
+<letter>A</letter>
+<link>http://education.indiana.edu/graduate/programs/adult-education/index.html</link>
+<mp>MS</mp>
+<name>Adult Education </name>
+<school>School of Education</school>
+</degree>
+
+<degree>
+<bp>BA</bp>
+<dp>PhD </dp>
+<id>f2021ac97f4f4e1a010c9860cbd875eb </id>
+<letter>A</letter>
+<link>http://www.indiana.edu/~afroamer/ </link>
+<mp>MA</mp>
+<name>African American and African Diaspora Studies </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp>BA</bp>
+<dp> </dp>
+<id>f204dc497f4f4e1a010c986003341de0 </id>
+<letter>A</letter>
+<link>http://www.indiana.edu/~soc/ug_degree.html#Afro </link>
+<mp></mp>
+<name>African American Studies and Sociology </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp>Minor</bp>
+<dp> </dp>
+<id>afbe76c6814f4e1a3c572554ef48d7d8 </id>
+<letter>A</letter>
+<link>http://www.indiana.edu/~afrilang/ </link>
+<mp></mp>
+<name>African Languages </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp>Cert, Minor</bp>
+<dp>Minor </dp>
+<id>f206331d7f4f4e1a010c9860532db63c </id>
+<letter>A</letter>
+<link>http://www.indiana.edu/~afrist/ </link>
+<mp>MA</mp>
+<name>African Studies </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp>BA</bp>
+<dp>PhD </dp>
+<id>f20b5cfb7f4f4e1a010c98602f438dd2 </id>
+<letter>A</letter>
+<link>http://www.indiana.edu/~amst/ </link>
+<mp></mp>
+<name>American Studies </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp>PhD </dp>
+<id>f210e5ed7f4f4e1a010c98604c5361b9 </id>
+<letter>A</letter>
+<link>http://www.bloomington.medicine.iu.edu/ </link>
+<mp>MS</mp>
+<name>Anatomy </name>
+<school>School of Medicine</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp>Minor </dp>
+<id>f21267647f4f4e1a010c98609c85ddc2 </id>
+<letter>A</letter>
+<link>http://www.indiana.edu/~ancient/ </link>
+<mp></mp>
+<name>Ancient Studies </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp>Cert, BS, Minor</bp>
+<dp>Cert, Minor </dp>
+<id>f21717497f4f4e1a010c9860c6139f4a </id>
+<letter>A</letter>
+<link>http://www.indiana.edu/~animal/academics.html </link>
+<mp></mp>
+<name>Animal Behavior </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp>BA</bp>
+<dp>PhD </dp>
+<id>f21b92e27f4f4e1a010c9860cfc5bdff </id>
+<letter>A</letter>
+<link>http://www.indiana.edu/~anthro/ </link>
+<mp>MA</mp>
+<name>Anthropology </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp>BS</bp>
+<dp> </dp>
+<id>f21d76497f4f4e1a010c98604a1e31ca </id>
+<letter>A</letter>
+<link>http://design.iub.edu/rdmg/ </link>
+<mp>MS</mp>
+<name>Apparel Merchandising </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp> </dp>
+<id>550b5c76814f4e1a63de5fd6cbae6074 </id>
+<letter>A</letter>
+<link>https://spea.indiana.edu/masters/degrees-certificates/environmental-science/concentrations/applied-ecology.html </link>
+<mp>MS</mp>
+<name>Applied Ecology </name>
+<school>School of Public and Environmental Affairs</school>
+</degree>
+
+<degree>
+<bp>BS</bp>
+<dp>PhD </dp>
+<id>f21fcfbb7f4f4e1a010c9860db56e7b8 </id>
+<letter>A</letter>
+<link>http://www.publichealth.indiana.edu/departments/applied-health-science/index.shtml </link>
+<mp>MS</mp>
+<name>Applied Health Science </name>
+<school>School of Public Health—Bloomington</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp> </dp>
+<id>f22189ca7f4f4e1a010c986088e04582 </id>
+<letter>A</letter>
+<link>http://www.indiana.edu/~bulletin/iub/phb/2012-2013/graduate/masters/msk-applied-sport-sci.shtml </link>
+<mp>MS</mp>
+<name>Applied Sport Science </name>
+<school>School of Public Health—Bloomington</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp>PhD, EdD </dp>
+<id>409c2883814f4e1a26d5758ea92058da </id>
+<letter>A</letter>
+<link>http://education.indiana.edu/graduate/programs/art-ed/index.html </link>
+<mp>MS</mp>
+<name>Art Education (graduate) </name>
+<school>School of Education</school>
+</degree>
+
+<degree>
+<bp>BS</bp>
+<dp> </dp>
+<id>f22340647f4f4e1a010c98606fd06b02 </id>
+<letter>A</letter>
+<link>http://education.indiana.edu/undergraduate/programs/art.html </link>
+<mp></mp>
+<name>Art Education (undergraduate) </name>
+<school>School of Education</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp> </dp>
+<id>fc8064647f4f4e1a010c98608157d29a </id>
+<letter>A</letter>
+<link>#</link>
+<mp></mp>
+<name>Art History (see History of Art) </name>
+<school></school>
+</degree>
+
+<degree>
+<bp>Cert</bp>
+<dp>Minor </dp>
+<id>f224de117f4f4e1a010c98604a1fa133 </id>
+<letter>A</letter>
+<link>https://spea.indiana.edu/masters/degrees-certificates/arts-administration/index.html </link>
+<mp>MA</mp>
+<name>Arts Administration </name>
+<school>School of Public and Environmental Affairs</school>
+</degree>
+
+<degree>
+<bp>BS</bp>
+<dp> </dp>
+<id>c76555e7814f4e1a2bc8b2974b208e62 </id>
+<letter>A</letter>
+<link>https://spea.indiana.edu/undergraduate/majors-minors-certificates/arts-management.html </link>
+<mp></mp>
+<name>Arts Administration </name>
+<school>School of Public and Environmental Affairs</school>
+</degree>
+
+<degree>
+<bp>Minor</bp>
+<dp> </dp>
+<id>f226678e7f4f4e1a010c9860941378e4 </id>
+<letter>A</letter>
+<link>http://www.indiana.edu/~aasp/ </link>
+<mp></mp>
+<name>Asian American Studies </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp>BS</bp>
+<dp>PhD </dp>
+<id>f22794ed7f4f4e1a010c9860cc878f43 </id>
+<letter>A</letter>
+<link>http://www.astro.indiana.edu/ </link>
+<mp>MA</mp>
+<name>Astronomy and Astrophysics </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp> </dp>
+<id>f22884c27f4f4e1a010c986038b64e3e </id>
+<letter>A</letter>
+<link>http://www.publichealth.indiana.edu/program-areas/athletic-administration-sport-management-masters/index.shtml </link>
+<mp>MS</mp>
+<name>Athletic Administration / Sport Management </name>
+<school>School of Public Health—Bloomington</school>
+</degree>
+
+<degree>
+<bp>BS</bp>
+<dp> </dp>
+<id>f229509d7f4f4e1a010c986034b1bc55 </id>
+<letter>A</letter>
+<link>http://www.publichealth.indiana.edu/program-areas/athletic-training-undergraduate/index.shtml </link>
+<mp>MS</mp>
+<name>Athletic Training </name>
+<school>School of Public Health—Bloomington</school>
+</degree>
+
+<degree>
+<bp>Cert</bp>
+<dp> </dp>
+<id>54b297b8814f4e1a63de5fd6ebe23090 </id>
+<letter>A</letter>
+<link>http://www.geology.indiana.edu/education/bs-atmos.html </link>
+<mp></mp>
+<name>Atmospheric Science </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp> </dp>
+<id>fc80ee8c7f4f4e1a010c98602f7563ab </id>
+<letter>A</letter>
+<link># </link>
+<mp></mp>
+<name>Audio Recording (see Recording Arts) </name>
+<school></school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp> </dp>
+<id>fc815a137f4f4e1a010c986002c5b90f </id>
+<letter>A</letter>
+<link># </link>
+<mp></mp>
+<name>Audio Technology (see Recording Arts) </name>
+<school></school>
+</degree>
+
+<degree>
+<bp>BS, BA</bp>
+<dp>AuD </dp>
+<id>f22d467a7f4f4e1a010c98600013d1e4 </id>
+<letter>A</letter>
+<link>http://www.indiana.edu/~sphs/ </link>
+<mp></mp>
+<name>Audiology and Hearing Science </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp>PhD </dp>
+<id>8ee7c3a3814f4e1a01f18153d647b230 </id>
+<letter>A</letter>
+<link>http://www.indiana.edu/~sphs/academics/phd/ </link>
+<mp></mp>
+<name>Auditory Sciences </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp>BS</bp>
+<dp> </dp>
+<id>f22e8dab7f4f4e1a010c9860b58a091c </id>
+<letter>B</letter>
+<link>http://music.indiana.edu/departments/academic/ballet/ </link>
+<mp></mp>
+<name>Ballet </name>
+<school>Jacobs School of Music</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp> </dp>
+<id>fc81feb57f4f4e1a010c986011b5d3e3 </id>
+<letter>B</letter>
+<link># </link>
+<mp></mp>
+<name>Band (see Conducting, Wind) </name>
+<school></school>
+</degree>
+
+<degree>
+<bp>BM</bp>
+<dp>DM </dp>
+<id>f2306d777f4f4e1a010c9860de6d1209 </id>
+<letter>B</letter>
+<link>http://music.indiana.edu/departments/academic/woodwinds/areas/bassoon/ </link>
+<mp>MM</mp>
+<name>Bassoon </name>
+<school>Jacobs School of Music</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp> </dp>
+<id>54db7df8814f4e1a63de5fd6f60a5f4a </id>
+<letter>B</letter>
+<link>http://www.publichealth.indiana.edu/degrees/graduate.shtml </link>
+<mp>MPH</mp>
+<name>Behavioral, Social and Community Health </name>
+<school>School of Public Health—Bloomington</school>
+</degree>
+
+<degree>
+<bp>BS, BA</bp>
+<dp> </dp>
+<id>f23483f77f4f4e1a010c98608c12ef3b </id>
+<letter>B</letter>
+<link>http://www.chem.indiana.edu/undergraduate/ </link>
+<mp></mp>
+<name>Biochemistry (undergraduate) </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp>PhD </dp>
+<id>f2a1beec7f4f4e1a010c98605ddfeeb3 </id>
+<letter>B</letter>
+<link>http://www.indiana.edu/~bchem/ </link>
+<mp>MS</mp>
+<name>Biochemistry (graduate) </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp>PhD </dp>
+<id>f235802b7f4f4e1a010c986023b49b1c </id>
+<letter>B</letter>
+<link>http://www.soic.indiana.edu/graduate/degrees/informatics/bioinformatics/ </link>
+<mp>MS</mp>
+<name>Bioinformatics </name>
+<school>School of Informatics and Computing</school>
+</degree>
+
+<degree>
+<bp>BS, BA</bp>
+<dp>PhD </dp>
+<id>f23670bf7f4f4e1a010c9860803d3da4 </id>
+<letter>B</letter>
+<link>http://www.bio.indiana.edu/ </link>
+<mp>MAT, MS</mp>
+<name>Biology </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp>PhD </dp>
+<id>f23785937f4f4e1a010c986020d5d4a5 </id>
+<letter>B</letter>
+<link>http://www.publichealth.indiana.edu/program-areas/biomechanics/index.shtml </link>
+<mp>MS</mp>
+<name>Biomechanics </name>
+<school>School of Public Health—Bloomington</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp> </dp>
+<id>54dc77e7814f4e1a63de5fd68f7ca20d </id>
+<letter>B</letter>
+<link>http://www.publichealth.indiana.edu/departments/epidemiology/ </link>
+<mp>MPH</mp>
+<name>Biostatistics </name>
+<school>School of Public Health—Bloomington</school>
+</degree>
+
+<degree>
+<bp>BS</bp>
+<dp> </dp>
+<id>f23867017f4f4e1a010c9860d468a114 </id>
+<letter>B</letter>
+<link>http://www.indiana.edu/~mcbdept/biotech/ </link>
+<mp>MS</mp>
+<name>Biotechnology </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp>BM, BME, BS</bp>
+<dp>DM </dp>
+<id>f23909c47f4f4e1a010c9860d52f3af4 </id>
+<letter>B</letter>
+<link>http://music.indiana.edu/departments/academic/brass/degrees.shtml </link>
+<mp>MM</mp>
+<name>Brass Instruments </name>
+<school>Jacobs School of Music</school>
+</degree>
+
+<degree>
+<bp>BS, Minor</bp>
+<dp>PhD </dp>
+<id>f239e0007f4f4e1a010c986098201319 </id>
+<letter>B</letter>
+<link>http://kelley.iu.edu/programs/ </link>
+<mp>MBA, MSA, MSIS</mp>
+<name>Business </name>
+<school>Kelley School of Business</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp> </dp>
+<id>f23a8d477f4f4e1a010c9860cd180ca6 </id>
+<letter>B</letter>
+<link>http://kelley.iu.edu/mba/ </link>
+<mp>MBA</mp>
+<name>Business Administration </name>
+<school>Kelley School of Business</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp> </dp>
+<id>54d017e3814f4e1a63de5fd67e1f6751 </id>
+<letter>B</letter>
+<link>http://www.kelley.iu.edu/ODT/AboutUs/DecisionSciences/page11147.html </link>
+<mp>MBA</mp>
+<name>Business Analytics </name>
+<school>Kelley School of Business</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp>PhD </dp>
+<id>452b19a57f4f4e1a01ba4b540fed5992 </id>
+<letter>B</letter>
+<link>http://kelley.iu.edu/BEPP/Doctoral/page14133.html </link>
+<mp></mp>
+<name>Business Economics </name>
+<school>Kelley School of Business</school>
+</degree>
+
+<degree>
+<bp>Cert</bp>
+<dp> </dp>
+<id>afaeee17814f4e1a3c572554a13abee5 </id>
+<letter>B</letter>
+<link>http://kelley.iupui.edu/undergrad/academics/foundations-certificate/ </link>
+<mp></mp>
+<name>Business Foundations </name>
+<school>Kelley School of Business</school>
+</degree>
+
+<degree>
+<bp>BM</bp>
+<dp>DM </dp>
+<id>f23d61b47f4f4e1a010c986098951e82 </id>
+<letter>C</letter>
+<link>http://music.indiana.edu/departments/academic/strings/ </link>
+<mp>MM</mp>
+<name>Cello </name>
+<school>Jacobs School of Music</school>
+</degree>
+
+<degree>
+<bp>BA, Minor, Cert</bp>
+<dp>PhD </dp>
+<id>f23f4b837f4f4e1a010c98603f81a736 </id>
+<letter>C</letter>
+<link>http://www.indiana.edu/~ceus/ </link>
+<mp>MA</mp>
+<name>Central Eurasian Studies </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp> </dp>
+<id>f24086597f4f4e1a010c9860a1da9159 </id>
+<letter>C</letter>
+<link>http://www.indiana.edu/~finaweb/test/cms/fina/areas/ceramics/ </link>
+<mp>MFA, MAT</mp>
+<name>Ceramics </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp>PhD </dp>
+<id>f241df337f4f4e1a010c986070fb14bd </id>
+<letter>C</letter>
+<link>http://www.soic.indiana.edu/graduate/degrees/informatics/cheminformatics/index.html </link>
+<mp>Cert, MS</mp>
+<name>Chemical Informatics </name>
+<school>School of Informatics and Computing</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp>PhD </dp>
+<id>f2a2f3a17f4f4e1a010c9860d662fe89 </id>
+<letter>C</letter>
+<link>http://www.chemphys.indiana.edu/ </link>
+<mp></mp>
+<name>Chemical Physics </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp>BA, BS</bp>
+<dp>PhD </dp>
+<id>f24280f27f4f4e1a010c98605e712e7e </id>
+<letter>C</letter>
+<link>http://chem.indiana.edu/ </link>
+<mp>MS, MAT</mp>
+<name>Chemistry </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp>BM</bp>
+<dp>DM </dp>
+<id>f2440cb47f4f4e1a010c9860559548ba </id>
+<letter>C</letter>
+<link>http://music.indiana.edu/departments/academic/woodwinds/areas/clarinet/ </link>
+<mp>MM</mp>
+<name>Clarinet </name>
+<school>Jacobs School of Music</school>
+</degree>
+
+<degree>
+<bp>Minor, BA</bp>
+<dp> </dp>
+<id>5eb4a679814f4e1a441b16b527c7415d </id>
+<letter>C</letter>
+<link>http://www.indiana.edu/~classics/undergraduate/majors.shtml#b </link>
+<mp></mp>
+<name>Classical Civilization: Art and Archaeology </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp>Minor, BA</bp>
+<dp> </dp>
+<id>f2449e307f4f4e1a010c9860264dcab2 </id>
+<letter>C</letter>
+<link>http://www.indiana.edu/~classics/undergraduate/majors.shtml#b </link>
+<mp></mp>
+<name>Classical Civilization: Culture and Literature </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp>BA</bp>
+<dp>PhD </dp>
+<id>f24597787f4f4e1a010c98606fda6659 </id>
+<letter>C</letter>
+<link>http://www.indiana.edu/~classics/ </link>
+<mp>MAT, MA</mp>
+<name>Classical Studies - Latin and Greek </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp>BA, BS</bp>
+<dp>PhD </dp>
+<id>f2496c467f4f4e1a010c98605c3325d9 </id>
+<letter>C</letter>
+<link>http://www.cogs.indiana.edu/ </link>
+<mp></mp>
+<name>Cognitive Science </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp>BA</bp>
+<dp>PhD </dp>
+<id>f249fe767f4f4e1a010c98608af7dda0 </id>
+<letter>C</letter>
+<link>http://www.indiana.edu/~cmcl/ </link>
+<mp>MA</mp>
+<name>Communication and Culture </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp>BSPH</bp>
+<dp> </dp>
+<id>54ddc7ec814f4e1a63de5fd68445563a </id>
+<letter>C</letter>
+<link>http://www.publichealth.indiana.edu/degrees/undergraduate.shtml </link>
+<mp></mp>
+<name>Community Health </name>
+<school>School of Public Health—Bloomington</school>
+</degree>
+
+<degree>
+<bp>BA</bp>
+<dp>PhD </dp>
+<id>f24ab5a47f4f4e1a010c98600af3984c </id>
+<letter>C</letter>
+<link>http://www.indiana.edu/~complit/ </link>
+<mp>MAT, MA</mp>
+<name>Comparative Literature </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp>BM</bp>
+<dp>DM </dp>
+<id>f24bd6a47f4f4e1a010c9860a838eeaa </id>
+<letter>C</letter>
+<link>http://music.indiana.edu/departments/academic/composition/ </link>
+<mp>MM</mp>
+<name>Composition </name>
+<school>Jacobs School of Music</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp>PhD, Minor </dp>
+<id>c759e41b814f4e1a2bc8b29744507155 </id>
+<letter>C</letter>
+<link>http://cl.indiana.edu/programs.html </link>
+<mp>MA</mp>
+<name>Computational Linguistics </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp> </dp>
+<id>f24d028e7f4f4e1a010c9860c822af57 </id>
+<letter>C</letter>
+<link>http://www.indiana.edu/~emusic/ </link>
+<mp>MM</mp>
+<name>Computer Music Composition </name>
+<school>Jacobs School of Music</school>
+</degree>
+
+<degree>
+<bp>BS, BA</bp>
+<dp>PhD </dp>
+<id>f24dd1367f4f4e1a010c9860b40e5c27 </id>
+<letter>C</letter>
+<link>http://www.soic.indiana.edu/undergraduate/degrees-certificates/bs-computer-science/ </link>
+<mp>MS</mp>
+<name>Computer Science </name>
+<school>School of Informatics and Computing</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp>DM </dp>
+<id>f24e7b777f4f4e1a010c9860d51c0294 </id>
+<letter>C</letter>
+<link>http://music.indiana.edu/departments/academic/choral/ </link>
+<mp>MM</mp>
+<name>Conducting, Choral </name>
+<school>Jacobs School of Music</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp>DM </dp>
+<id>b8a4e5d0814f4e1a565e858886adad71 </id>
+<letter>C</letter>
+<link>http://music.indiana.edu/departments/academic/orchestral-conducting/ </link>
+<mp>MM</mp>
+<name>Conducting, Orchestral </name>
+<school>Jacobs School of Music</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp>DM </dp>
+<id>f250b6487f4f4e1a010c986043066676 </id>
+<letter>C</letter>
+<link>http://music.indiana.edu/departments/academic/bands/ </link>
+<mp>MM</mp>
+<name>Conducting, Wind </name>
+<school>Jacobs School of Music</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp>Minor </dp>
+<id>f2532b1f7f4f4e1a010c9860a7315b63 </id>
+<letter>C</letter>
+<link>http://education.indiana.edu/graduate/programs/counseling/index.html </link>
+<mp>MS, EdS</mp>
+<name>Counseling and Counselor Education </name>
+<school>School of Education</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp>PhD </dp>
+<id>f253fb277f4f4e1a010c9860519689ca </id>
+<letter>C</letter>
+<link>http://education.indiana.edu/graduate/programs/counseling-psychology/index.html </link>
+<mp></mp>
+<name>Counseling Psychology </name>
+<school>School of Education</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp> </dp>
+<id>f254bf517f4f4e1a010c98609a70a8b5 </id>
+<letter>C</letter>
+<link>http://www.indiana.edu/~mfawrite/ </link>
+<mp>MFA, MA</mp>
+<name>Creative Writing </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp>Cert, BA</bp>
+<dp>PhD </dp>
+<id>f255ee3c7f4f4e1a010c98608d7a3512 </id>
+<letter>C</letter>
+<link>http://www.indiana.edu/~crimjust/ </link>
+<mp>MA</mp>
+<name>Criminal Justice </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp>Minor </dp>
+<id>f2567f4d7f4f4e1a010c9860f4b21168 </id>
+<letter>C</letter>
+<link>http://www.indiana.edu/~cstudies/ </link>
+<mp></mp>
+<name>Cultural Studies </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp>PhD, EdD </dp>
+<id>f257672a7f4f4e1a010c9860a062dde1 </id>
+<letter>C</letter>
+<link>http://education.indiana.edu/graduate/programs/curriculum/index.html </link>
+<mp>MS</mp>
+<name>Curriculum Studies </name>
+<school>School of Education</school>
+</degree>
+
+<degree>
+<bp>BS</bp>
+<dp> </dp>
+<id>f25887557f4f4e1a010c9860905d7241 </id>
+<letter>D</letter>
+<link>http://www.indiana.edu/~condance/ </link>
+<mp></mp>
+<name>Dance </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp>PhD </dp>
+<id>4529ac1a7f4f4e1a01ba4b54f2da0e6d </id>
+<letter>D</letter>
+<link>http://kelley.iu.edu/odt/ </link>
+<mp></mp>
+<name>Decision Sciences </name>
+<school>Kelley School of Business</school>
+</degree>
+
+<degree>
+<bp>BS</bp>
+<dp> </dp>
+<id>f25a2f1f7f4f4e1a010c9860f715641a </id>
+<letter>D</letter>
+<link>http://www.publichealth.indiana.edu/degrees/undergraduate.shtml </link>
+<mp></mp>
+<name>Dietetics </name>
+<school>School of Public Health—Bloomington</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp> </dp>
+<id>4558d7cd7f4f4e1a01ba4b54a4edb4f7 </id>
+<letter>D</letter>
+<link>http://www.indiana.edu/~finaweb/test/cms/fina/areas/digital-art/ </link>
+<mp>MFA</mp>
+<name>Digital Art </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp>BM</bp>
+<dp>DM </dp>
+<id>f25badae7f4f4e1a010c9860decfd050 </id>
+<letter>D</letter>
+<link>http://music.indiana.edu/departments/academic/strings/ </link>
+<mp>MM</mp>
+<name>Double Bass </name>
+<school>Jacobs School of Music</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp> </dp>
+<id>f25c819a7f4f4e1a010c98606ee5d596 </id>
+<letter>D</letter>
+<link># </link>
+<mp></mp>
+<name>Drama (see Theatre and Drama) </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp>Minor, Cert</bp>
+<dp> </dp>
+<id>afbac928814f4e1a3c572554a7fb2588 </id>
+<letter>D</letter>
+<link>http://www.indiana.edu/~germanic/dutch/ </link>
+<mp></mp>
+<name>Dutch </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp> </dp>
+<id>3281d7f3814f4e1a3d289d5e9f91cdbb </id>
+<letter>E</letter>
+<link>http://education.indiana.edu/graduate/programs/early-childhood/index.html </link>
+<mp>MS</mp>
+<name>Early Childhood Education (graduate) </name>
+<school>School of Education</school>
+</degree>
+
+<degree>
+<bp>BS</bp>
+<dp> </dp>
+<id>f26116a87f4f4e1a010c9860ac0b050c </id>
+<letter>E</letter>
+<link>http://education.indiana.edu/undergraduate/programs/early-childhood.html </link>
+<mp></mp>
+<name>Early Childhood Education (undergraduate) </name>
+<school>School of Education</school>
+</degree>
+
+<degree>
+<bp>BM</bp>
+<dp>DM </dp>
+<id>f26963957f4f4e1a010c98604120ec9f </id>
+<letter>E</letter>
+<link>http://music.indiana.edu/departments/academic/early-music/degrees.shtml </link>
+<mp>MM</mp>
+<name>Early Music </name>
+<school>Jacobs School of Music</school>
+</degree>
+
+<degree>
+<bp>BA</bp>
+<dp>PhD </dp>
+<id>f26a743c7f4f4e1a010c98609a0c570a </id>
+<letter>E</letter>
+<link>http://www.indiana.edu/~ealc/index.shtml </link>
+<mp>MA</mp>
+<name>East Asian Languages and Cultures </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp>BA</bp>
+<dp>PhD </dp>
+<id>f26af9117f4f4e1a010c98601eb58b91 </id>
+<letter>E</letter>
+<link>http://www.indiana.edu/~ealc/index.shtml </link>
+<mp>MA</mp>
+<name>East Asian Studies </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp>BS</bp>
+<dp> </dp>
+<id>450da3f67f4f4e1a01ba4b54c876c5e0 </id>
+<letter>E</letter>
+<link>http://kelley.iu.edu/bepp/undergraduate/page14634.html </link>
+<mp></mp>
+<name>Economic Consulting </name>
+<school>Kelley School of Business</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp> </dp>
+<id>521247467f4f4e1c00d2fa99f03bbc11 </id>
+<letter>E</letter>
+<link>https://spea.indiana.edu/masters/degrees-certificates/public-affairs/concentrations/economic-development.html </link>
+<mp>MPA</mp>
+<name>Economic Development </name>
+<school>School of Public and Environmental Affairs</school>
+</degree>
+
+<degree>
+<bp>BA</bp>
+<dp>PhD </dp>
+<id>f26c3e297f4f4e1a010c9860fd5dacf4 </id>
+<letter>E</letter>
+<link>http://www.indiana.edu/~econweb/ </link>
+<mp>MA</mp>
+<name>Economics </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp>BA</bp>
+<dp> </dp>
+<id>f26f6c927f4f4e1a010c9860bc44abf5 </id>
+<letter>E</letter>
+<link>http://www.math.indiana.edu/undergraduate/econmath.phtml </link>
+<mp></mp>
+<name>Economics / Mathematics </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp> </dp>
+<id>fc82d3907f4f4e1a010c986070497044 </id>
+<letter>E</letter>
+<link># </link>
+<mp></mp>
+<name>Ecosystem Science (see Environmental Science) </name>
+<school></school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp>PhD, Minor </dp>
+<id>f271525b7f4f4e1a010c9860ce7f272e </id>
+<letter>E</letter>
+<link>http://education.indiana.edu/graduate/programs/ed-policy/index.html </link>
+<mp></mp>
+<name>Education Policy Studies </name>
+<school>School of Education</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp>EdD, PhD </dp>
+<id>f27382c07f4f4e1a010c986086f880aa </id>
+<letter>E</letter>
+<link>http://education.indiana.edu/graduate/programs/ed-leadership/index.html </link>
+<mp>EdS, MS</mp>
+<name>Educational Leadership </name>
+<school>School of Education</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp>PhD </dp>
+<id>f2741b857f4f4e1a010c9860c96d70e3 </id>
+<letter>E</letter>
+<link>http://education.indiana.edu/graduate/programs/educational-psychology/index.html </link>
+<mp>MS</mp>
+<name>Educational Psychology </name>
+<school>School of Education</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp> </dp>
+<id>86f8da1c814f4e1a47fff1c39ef73d4c </id>
+<letter>E</letter>
+<link>http://egyptology.indiana.edu/ </link>
+<mp>MA</mp>
+<name>Egyptology </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp> </dp>
+<id>fc8339527f4f4e1a010c9860c803ff47 </id>
+<letter>E</letter>
+<link># </link>
+<mp></mp>
+<name>Electronic and Computer Music (see Computer Music Composition) </name>
+<school></school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp>EdD, PhD </dp>
+<id>40ab2f45814f4e1a26d5758e4947551c </id>
+<letter>E</letter>
+<link>http://education.indiana.edu/graduate/programs/elementary-ed/index.html </link>
+<mp>MS, Cert, EdS</mp>
+<name>Elementary Education (graduate) </name>
+<school>School of Education</school>
+</degree>
+
+<degree>
+<bp>Lic, BS</bp>
+<dp> </dp>
+<id>f275709d7f4f4e1a010c9860b06644d7 </id>
+<letter>E</letter>
+<link>http://education.indiana.edu/undergraduate/programs/elementary.html </link>
+<mp></mp>
+<name>Elementary Education (undergraduate) </name>
+<school>School of Education</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp> </dp>
+<id>550f6dd9814f4e1a63de5fd6752b4d4c </id>
+<letter>E</letter>
+<link>https://spea.indiana.edu/masters/degrees-certificates/public-affairs/concentrations/energy.html </link>
+<mp>MPA, MS</mp>
+<name>Energy </name>
+<school>School of Public and Environmental Affairs</school>
+</degree>
+
+<degree>
+<bp>BA</bp>
+<dp>PhD </dp>
+<id>f2765f197f4f4e1a010c986088a7af3d </id>
+<letter>E</letter>
+<link>http://www.indiana.edu/~engweb/ </link>
+<mp>MA</mp>
+<name>English </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp>BS, Cert</bp>
+<dp>PhD </dp>
+<id>f27902457f4f4e1a010c986085b60bae </id>
+<letter>E</letter>
+<link>http://kelley.iu.edu/management/ </link>
+<mp></mp>
+<name>Entrepreneurship </name>
+<school>Kelley School of Business</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp> </dp>
+<id>54d3fbf4814f4e1a63de5fd67a1ab287 </id>
+<letter>E</letter>
+<link>http://kelley.iu.edu/Management/Masters/requirements/page14588.html#entrepreneurship </link>
+<mp>MBA</mp>
+<name>Entrepreneurship and Corporate Innovation </name>
+<school>Kelley School of Business</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp> </dp>
+<id>551181d4814f4e1a63de5fd65975eead </id>
+<letter>E</letter>
+<link>https://spea.indiana.edu/masters/degrees-certificates/environmental-science/concentrations/environmental-chemistry.html </link>
+<mp>MS</mp>
+<name>Environmental Chemistry, Toxicology and Risk Assessment </name>
+<school>School of Public and Environmental Affairs</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp>PhD </dp>
+<id>54ded741814f4e1a63de5fd69d9e846e </id>
+<letter>E</letter>
+<link>http://www.indiana.edu/~mph/ </link>
+<mp>MPH</mp>
+<name>Environmental Health </name>
+<school>School of Public Health—Bloomington</school>
+</degree>
+
+<degree>
+<bp>Cert, BSPA</bp>
+<dp> </dp>
+<id>f2798c667f4f4e1a010c9860881e5b50 </id>
+<letter>E</letter>
+<link>https://spea.indiana.edu/undergraduate/majors-minors-certificates/environmental-management.html </link>
+<mp>MS, MPA</mp>
+<name>Environmental Management </name>
+<school>School of Public and Environmental Affairs</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp> </dp>
+<id>5213a3007f4f4e1c00d2fa99aaab8d54 </id>
+<letter>E</letter>
+<link>https://spea.indiana.edu/masters/degrees-certificates/public-affairs/concentrations/environmental-policy.html </link>
+<mp>MPA</mp>
+<name>Environmental Policy and Natural Resource Management </name>
+<school>School of Public and Environmental Affairs</school>
+</degree>
+
+<degree>
+<bp>BS</bp>
+<dp>PhD </dp>
+<id>f27a9b2e7f4f4e1a010c98606875a28f </id>
+<letter>E</letter>
+<link>https://spea.indiana.edu/undergraduate/majors-minors-certificates/environmental-science.html </link>
+<mp>MS</mp>
+<name>Environmental Science </name>
+<school>School of Public and Environmental Affairs</school>
+</degree>
+
+<degree>
+<bp>Cert, BA</bp>
+<dp> </dp>
+<id>af5ff8a4814f4e1a3c5725540da56623 </id>
+<letter>E</letter>
+<link>https://spea.indiana.edu/undergraduate/majors-minors-certificates/baess.html </link>
+<mp></mp>
+<name>Environmental and Sustainability Studies </name>
+<school>School of Public and Environmental Affairs</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp>PhD </dp>
+<id>54dfd089814f4e1a63de5fd6649b3b2e </id>
+<letter>E</letter>
+<link>http://www.publichealth.indiana.edu/departments/epidemiology/ </link>
+<mp>MPH</mp>
+<name>Epidemiology </name>
+<school>School of Public Health—Bloomington</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp> </dp>
+<id>f27b3e447f4f4e1a010c9860be6755bd </id>
+<letter>E</letter>
+<link>http://www.publichealth.indiana.edu/program-areas/ergonomics/index.shtml </link>
+<mp>MS</mp>
+<name>Ergonomics </name>
+<school>School of Public Health—Bloomington</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp> </dp>
+<id>f27c077e7f4f4e1a010c9860ac903e56 </id>
+<letter>E</letter>
+<link># </link>
+<mp></mp>
+<name>Ethnomusicology (see Folklore and Ethnomusicology) </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp>BM</bp>
+<dp>DM </dp>
+<id>f27cbdfc7f4f4e1a010c9860407e5f04 </id>
+<letter>E</letter>
+<link>http://music.indiana.edu/departments/academic/brass/degrees.shtml </link>
+<mp>MM</mp>
+<name>Euphonium </name>
+<school>Jacobs School of Music</school>
+</degree>
+
+<degree>
+<bp>Minor</bp>
+<dp>Cert, Minor </dp>
+<id>f7c699f37f4f4e1c01928b7c2b3ce63e </id>
+<letter>E</letter>
+<link>http://www.iub.edu/~euroinst/academics </link>
+<mp>Cert, MA</mp>
+<name>European Studies </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp>PhD </dp>
+<id>54b696bd814f4e1a63de5fd6fc77eefc </id>
+<letter>E</letter>
+<link>http://www.bio.indiana.edu/graduate/eeb/ </link>
+<mp>MS</mp>
+<name>Evolution, Ecology and Behavior </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp>PhD </dp>
+<id>f27d49e07f4f4e1a010c98603bc408d4 </id>
+<letter>E</letter>
+<link>http://www.publichealth.indiana.edu/program-areas/exercise-science/masters.shtml </link>
+<mp>MS</mp>
+<name>Exercise Physiology </name>
+<school>School of Public Health—Bloomington</school>
+</degree>
+
+<degree>
+<bp>BS</bp>
+<dp>PhD </dp>
+<id>f27e0f5e7f4f4e1a010c98604dfc590c </id>
+<letter>E</letter>
+<link>http://www.publichealth.indiana.edu/program-areas/exercise-science/ </link>
+<mp>MS</mp>
+<name>Exercise Science </name>
+<school>School of Public Health—Bloomington</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp> </dp>
+<id>b1de5e5e814f4e1a53dee19dd861074b </id>
+<letter>F</letter>
+<link>http://www.publichealth.indiana.edu/departments/applied-health-science/degrees/index.shtml </link>
+<mp>MPH</mp>
+<name>Family Health </name>
+<school>School of Public Health—Bloomington</school>
+</degree>
+
+<degree>
+<bp>BA</bp>
+<dp> </dp>
+<id>f27f98f07f4f4e1a010c98605a18da58 </id>
+<letter>F</letter>
+<link>http://design.iub.edu/fdcg/ </link>
+<mp></mp>
+<name>Fashion Design </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp>BS</bp>
+<dp>PhD </dp>
+<id>f2804b437f4f4e1a010c9860b0e80b56 </id>
+<letter>F</letter>
+<link>http://www.kelley.iu.edu/finance/ </link>
+<mp>MBA</mp>
+<name>Finance </name>
+<school>Kelley School of Business</school>
+</degree>
+
+<degree>
+<bp>BM</bp>
+<dp>DM </dp>
+<id>f281ea7e7f4f4e1a010c986084dc1983 </id>
+<letter>F</letter>
+<link>http://music.indiana.edu/departments/academic/woodwinds/areas/flute/ </link>
+<mp>MM</mp>
+<name>Flute </name>
+<school>Jacobs School of Music</school>
+</degree>
+
+<degree>
+<bp>Minor, BA</bp>
+<dp>PhD </dp>
+<id>f2826a297f4f4e1a010c9860db510aa7 </id>
+<letter>F</letter>
+<link>http://www.indiana.edu/~folklore/ </link>
+<mp>MA</mp>
+<name>Folklore and Ethnomusicology </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp>BA</bp>
+<dp>PhD </dp>
+<id>f282e3397f4f4e1a010c9860961bedf0 </id>
+<letter>F</letter>
+<link>http://www.indiana.edu/~frithome/ </link>
+<mp>MA</mp>
+<name>French </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp>Cert</bp>
+<dp> </dp>
+<id>54b866d6814f4e1a63de5fd6d494ba25 </id>
+<letter>G</letter>
+<link>http://www.indiana.edu/~telecom/undergraduate/certificate_game.shtml </link>
+<mp></mp>
+<name>Game Studies </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp>BA</bp>
+<dp>PhD </dp>
+<id>f28445dd7f4f4e1a010c9860fda4bcc6 </id>
+<letter>G</letter>
+<link>http://www.indiana.edu/~gender/ </link>
+<mp></mp>
+<name>Gender Studies </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp>BGS</bp>
+<dp> </dp>
+<id>f2859c477f4f4e1a010c98605ca21e9a </id>
+<letter>G</letter>
+<link>http://college.indiana.edu/ado/bgs/ </link>
+<mp></mp>
+<name>General Studies (Bloomington campus program) </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp>PhD </dp>
+<id>54b9cc3c814f4e1a63de5fd61217cf53 </id>
+<letter>G</letter>
+<link>http://www.bio.indiana.edu/graduate/mcdb/ </link>
+<mp></mp>
+<name>Genetics </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp>BS, BA</bp>
+<dp>PhD </dp>
+<id>f28772b17f4f4e1a010c98604419c039 </id>
+<letter>G</letter>
+<link>http://www.indiana.edu/~geog/ </link>
+<mp>MA, MS</mp>
+<name>Geography </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp>BS, BA</bp>
+<dp>PhD </dp>
+<id>f288050f7f4f4e1a010c9860ace6eb68 </id>
+<letter>G</letter>
+<link>http://geology.indiana.edu/index.html </link>
+<mp>MS</mp>
+<name>Geological Sciences </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp>BA, Minor</bp>
+<dp>PhD </dp>
+<id>f2888e527f4f4e1a010c9860c8f55db9 </id>
+<letter>G</letter>
+<link>http://www.indiana.edu/~germanic/ </link>
+<mp>MA, MAT</mp>
+<name>Germanic Studies </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp>Minor</bp>
+<dp> </dp>
+<id>78e03bee814f4e1a39b4e557a98f9679 </id>
+<letter>G</letter>
+<link>http://www.publichealth.indiana.edu/degrees/minors.shtml </link>
+<mp></mp>
+<name>Gerontology </name>
+<school>School of Public Health—Bloomington</school>
+</degree>
+
+<degree>
+<bp>Minor</bp>
+<dp> </dp>
+<id>b1f6fc8e814f4e1a53dee19d8dfbc975 </id>
+<letter>G</letter>
+<link>http://www.publichealth.indiana.edu/departments/applied-health-science/degrees/index.shtml </link>
+<mp></mp>
+<name>Global Health Promotion </name>
+<school>School of Public Health—Bloomington</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp>Minor </dp>
+<id>f289663a7f4f4e1a010c98602a9cae0a </id>
+<letter>G</letter>
+<link>http://www.indiana.edu/~global/academic/minor.php </link>
+<mp></mp>
+<name>Global Studies </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp> </dp>
+<id>450a79567f4f4e1a01ba4b54cd18281c </id>
+<letter>G</letter>
+<link>http://kelley.iu.edu/onlineMBA/Online/MSGSCM/page36795.cfm </link>
+<mp>MS</mp>
+<name>Global Supply Chain Management (online program) </name>
+<school>Kelley School of Business</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp> </dp>
+<id>f289db0a7f4f4e1a010c986080b81859 </id>
+<letter>G</letter>
+<link>http://www.indiana.edu/~finaweb/test/cms/fina/areas/graphic-design/ </link>
+<mp>MAT, MFA</mp>
+<name>Graphic Design </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp>BA</bp>
+<dp>PhD </dp>
+<id>f28a58d57f4f4e1a010c986022fdbf00 </id>
+<letter>G</letter>
+<link>http://www.indiana.edu/~classics/ </link>
+<mp>MA</mp>
+<name>Greek </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp>BM</bp>
+<dp>DM </dp>
+<id>f28b0c8d7f4f4e1a010c9860884c4fa4 </id>
+<letter>G</letter>
+<link>http://music.indiana.edu/departments/academic/guitar/degrees.shtml </link>
+<mp>MM</mp>
+<name>Guitar </name>
+<school>Jacobs School of Music</school>
+</degree>
+
+<degree>
+<bp>BM</bp>
+<dp>DM </dp>
+<id>f28c9f757f4f4e1a010c986056f55bf3 </id>
+<letter>H</letter>
+<link>http://music.indiana.edu/departments/academic/harp/degrees.shtml </link>
+<mp>MM</mp>
+<name>Harp </name>
+<school>Jacobs School of Music</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp> </dp>
+<id>fc83947d7f4f4e1a010c9860ca149591 </id>
+<letter>H</letter>
+<link># </link>
+<mp></mp>
+<name>Hazard Control Technology (see Safety Management) </name>
+<school></school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp> </dp>
+<id>e585a177814f4e1a0c5a72913a826c2d </id>
+<letter>H</letter>
+<link>https://spea.indiana.edu/masters/degrees-certificates/certificates.html </link>
+<mp>Cert</mp>
+<name>Hazardous Materials Management </name>
+<school>School of Public and Environmental Affairs</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp>PhD </dp>
+<id>54e08054814f4e1a63de5fd691b62600 </id>
+<letter>H</letter>
+<link>http://www.publichealth.indiana.edu/degrees/doctoral.shtml </link>
+<mp></mp>
+<name>Health Behavior </name>
+<school>School of Public Health—Bloomington</school>
+</degree>
+
+<degree>
+<bp>BS</bp>
+<dp> </dp>
+<id>f28d6a0a7f4f4e1a010c9860eb547f4a </id>
+<letter>H</letter>
+<link>http://www.publichealth.indiana.edu/degrees/undergraduate.shtml </link>
+<mp></mp>
+<name>Health Education - Secondary Teacher Preparation </name>
+<school>School of Public Health—Bloomington</school>
+</degree>
+
+<degree>
+<bp>BS</bp>
+<dp> </dp>
+<id>f28155c37f4f4e1a010c9860dd49b389 </id>
+<letter>H</letter>
+<link>http://www.publichealth.indiana.edu/degrees/undergraduate.shtml </link>
+<mp></mp>
+<name>Health Fitness Specialist </name>
+<school>School of Public Health—Bloomington</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp> </dp>
+<id>e5877f2f814f4e1a0c5a72916fdb5ddb </id>
+<letter>H</letter>
+<link>https://spea.indiana.edu/masters/degrees-certificates/public-affairs/concentrations/health-policy.html </link>
+<mp>MPA</mp>
+<name>Health Policy </name>
+<school>School of Public and Environmental Affairs</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp> </dp>
+<id>b1dd8bb3814f4e1a53dee19da5793b5f </id>
+<letter>H</letter>
+<link>http://www.publichealth.indiana.edu/departments/applied-health-science/degrees/index.shtml </link>
+<mp>MS</mp>
+<name>Health Promotion </name>
+<school>School of Public Health—Bloomington</school>
+</degree>
+
+<degree>
+<bp>Minor</bp>
+<dp> </dp>
+<id>b1f81ef4814f4e1a53dee19d89ea3118 </id>
+<letter>H</letter>
+<link>http://www.publichealth.indiana.edu/departments/applied-health-science/degrees/index.shtml </link>
+<mp></mp>
+<name>Health Studies </name>
+<school>School of Public Health—Bloomington</school>
+</degree>
+
+<degree>
+<bp>Minor</bp>
+<dp> </dp>
+<id>dae71798814f4e1a013f6d849fab8f4a </id>
+<letter>H</letter>
+<link>https://spea.indiana.edu/undergraduate/majors-minors-certificates/minors/index.html </link>
+<mp></mp>
+<name>Health Systems Administration </name>
+<school>School of Public and Environmental Affairs</school>
+</degree>
+
+<degree>
+<bp>BS</bp>
+<dp> </dp>
+<id>2432db3d814f4e1a6c596c2a4301b97b </id>
+<letter>H</letter>
+<link>https://spea.indiana.edu/undergraduate/majors-minors-certificates/healthcare-management.html </link>
+<mp></mp>
+<name>Healthcare Management and Policy </name>
+<school>School of Public and Environmental Affairs</school>
+</degree>
+
+<degree>
+<bp>Minor</bp>
+<dp> </dp>
+<id>afb81245814f4e1a3c5725541ffd4722 </id>
+<letter>H</letter>
+<link>http://www.indiana.edu/~jsp/undergraduates/hebrew.shtml </link>
+<mp></mp>
+<name>Hebrew </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp>EdD, PhD </dp>
+<id>f28ed7367f4f4e1a010c9860f545790a </id>
+<letter>H</letter>
+<link>http://education.indiana.edu/graduate/programs/hesa/index.html </link>
+<mp>MS, Cert</mp>
+<name>Higher Education and Student Affairs </name>
+<school>School of Education</school>
+</degree>
+
+<degree>
+<bp>BA</bp>
+<dp>PhD </dp>
+<id>f28f59487f4f4e1a010c9860887e329a </id>
+<letter>H</letter>
+<link>http://www.indiana.edu/~histweb/ </link>
+<mp>MAT, MA</mp>
+<name>History </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp>BA</bp>
+<dp>PhD </dp>
+<id>4557338d7f4f4e1a01ba4b544f76e6f5 </id>
+<letter>H</letter>
+<link>http://www.indiana.edu/~arthist/ </link>
+<mp>MA</mp>
+<name>History of Art </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp>Minor, PhD </dp>
+<id>f2911ac27f4f4e1a010c98609d065c8c </id>
+<letter>H</letter>
+<link>http://education.indiana.edu/graduate/programs/history-philosophy-comparative/index.html </link>
+<mp>MS</mp>
+<name>History, Philosophy &amp; Comparative Education </name>
+<school>School of Education</school>
+</degree>
+
+<degree>
+<bp>Minor, Cert</bp>
+<dp>PhD </dp>
+<id>f292820d7f4f4e1a010c9860b09862aa </id>
+<letter>H</letter>
+<link>http://www.indiana.edu/~hpscdept/ </link>
+<mp>MA</mp>
+<name>History and Philosophy of Science </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp>BM</bp>
+<dp>DM </dp>
+<id>f29393e27f4f4e1a010c98600804c7ae </id>
+<letter>H</letter>
+<link>http://music.indiana.edu/departments/academic/brass/areas/horn/ </link>
+<mp>MM</mp>
+<name>Horn </name>
+<school>Jacobs School of Music</school>
+</degree>
+
+<degree>
+<bp>BA, BS, Cert</bp>
+<dp> </dp>
+<id>f294f3a47f4f4e1a010c986000aecf6d </id>
+<letter>H</letter>
+<link>http://www.indiana.edu/~humbio/ </link>
+<mp></mp>
+<name>Human Biology </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp>PhD </dp>
+<id>f29627357f4f4e1a010c9860f62757b2 </id>
+<letter>H</letter>
+<link>http://www.soic.indiana.edu/graduate/degrees/informatics/hcid/ </link>
+<mp>MS</mp>
+<name>Human-Computer Interaction Design </name>
+<school>School of Informatics and Computing</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp>PhD </dp>
+<id>f29a29637f4f4e1a010c9860563c513c </id>
+<letter>H</letter>
+<link>http://education.indiana.edu/graduate/programs/human-development/index.html </link>
+<mp></mp>
+<name>Human Development </name>
+<school>School of Education</school>
+</degree>
+
+<degree>
+<bp>Minor, BS</bp>
+<dp> </dp>
+<id>b1db96d0814f4e1a53dee19dc5515b86 </id>
+<letter>H</letter>
+<link>http://www.publichealth.indiana.edu/departments/applied-health-science/degrees/index.shtml </link>
+<mp>MS</mp>
+<name>Human Development and Family Studies </name>
+<school>School of Public Health—Bloomington</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp>PhD </dp>
+<id>54e1f935814f4e1a63de5fd63397bf2b </id>
+<letter>H</letter>
+<link>http://www.publichealth.indiana.edu/degrees/doctoral.shtml </link>
+<mp></mp>
+<name>Human Performance </name>
+<school>School of Public Health—Bloomington</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp>PhD </dp>
+<id>f2aa19417f4f4e1a010c9860c94f75bf </id>
+<letter>H</letter>
+<link>http://kelley.iu.edu/Management/Doctoral/page14579.html </link>
+<mp></mp>
+<name>Human Resource Management </name>
+<school>Kelley School of Business</school>
+</degree>
+
+<degree>
+<bp>BSPA, Minor</bp>
+<dp> </dp>
+<id>dae83489814f4e1a013f6d84da814965 </id>
+<letter>H</letter>
+<link>https://spea.indiana.edu/undergraduate/majors-minors-certificates/human-resource.html </link>
+<mp></mp>
+<name>Human Resource Management </name>
+<school>School of Public and Environmental Affairs</school>
+</degree>
+
+<degree>
+<bp>Minor</bp>
+<dp> </dp>
+<id>b1f8bb99814f4e1a53dee19daa343566 </id>
+<letter>H</letter>
+<link>http://www.publichealth.indiana.edu/departments/applied-health-science/degrees/index.shtml </link>
+<mp></mp>
+<name>Human Sexuality </name>
+<school>School of Public Health—Bloomington</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp> </dp>
+<id>fc85717b7f4f4e1a010c98604ce9994c </id>
+<letter>H</letter>
+<link># </link>
+<mp></mp>
+<name>Hydrology and Water Resources (see Environmental Science) </name>
+<school></school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp> </dp>
+<id>f2ace03e7f4f4e1a010c9860475685e7 </id>
+<letter>I</letter>
+<link>http://www.mime.indiana.edu/ </link>
+<mp>MS</mp>
+<name>Immersive Mediated Environments </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp>Cert, Minor, BA</bp>
+<dp>Minor </dp>
+<id>f2adcf257f4f4e1a010c9860eabf13bb </id>
+<letter>I</letter>
+<link>http://www.indiana.edu/~isp/ </link>
+<mp></mp>
+<name>India Studies </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp>BA</bp>
+<dp> </dp>
+<id>f2ae68ad7f4f4e1a010c9860f287e030 </id>
+<letter>I</letter>
+<link>http://www.indiana.edu/~imp/ </link>
+<mp></mp>
+<name>Individualized Major Program </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp>BS</bp>
+<dp>PhD </dp>
+<id>f2af77627f4f4e1a010c9860769e55ab </id>
+<letter>I</letter>
+<link>http://www.informatics.indiana.edu/ </link>
+<mp>MS</mp>
+<name>Informatics </name>
+<school>School of Informatics and Computing</school>
+</degree>
+
+<degree>
+<bp>BS</bp>
+<dp> </dp>
+<id>452569827f4f4e1a01ba4b54ce5b73a8 </id>
+<letter>I</letter>
+<link>http://kelley.iu.edu/Ugrad/Academics/Curriculum/page39589.html </link>
+<mp></mp>
+<name>Information and Process Management </name>
+<school>Kelley School of Business</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp> </dp>
+<id>f2b0c4897f4f4e1a010c98606c9a3937 </id>
+<letter>I</letter>
+<link>http://www.soic.indiana.edu/graduate/degrees/information-library-science/dual-degrees/information-architecture-mls.html </link>
+<mp>Cert</mp>
+<name>Information Architecture </name>
+<school>School of Informatics and Computing</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp>PhD </dp>
+<id>f2b0188e7f4f4e1a010c986082789ec5 </id>
+<letter>I</letter>
+<link>http://www.soic.indiana.edu/graduate/degrees/information-library-science/master-information-science/index.html </link>
+<mp>MIS</mp>
+<name>Information Science </name>
+<school>School of Informatics and Computing</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp>PhD </dp>
+<id>f2b16ac87f4f4e1a010c9860c91f7d93 </id>
+<letter>I</letter>
+<link>http://www.kelley.iu.edu/isgp/ </link>
+<mp>MSIS</mp>
+<name>Information Systems </name>
+<school>Kelley School of Business</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp> </dp>
+<id>e5880c80814f4e1a0c5a72914a905a96 </id>
+<letter>I</letter>
+<link>https://spea.indiana.edu/masters/degrees-certificates/public-affairs/concentrations/information-systems.html </link>
+<mp>MPA</mp>
+<name>Information Systems </name>
+<school>School of Public and Environmental Affairs</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp> </dp>
+<id>f2b29a8c7f4f4e1a010c98609279d385 </id>
+<letter>I</letter>
+<link>http://education.indiana.edu/graduate/programs/inquiry-methodology/index.html </link>
+<mp>MS</mp>
+<name>Inquiry Methodology </name>
+<school>School of Education</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp>PhD, EdD </dp>
+<id>f2b3cfeb7f4f4e1a010c9860abac8971 </id>
+<letter>I</letter>
+<link>http://education.indiana.edu/graduate/programs/instructional-systems/index.html </link>
+<mp>Cert, MS</mp>
+<name>Instructional Systems Technology </name>
+<school>School of Education</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp> </dp>
+<id>fc85c4e47f4f4e1a010c986095a11ca7 </id>
+<letter>I</letter>
+<link># </link>
+<mp></mp>
+<name>Instrumental Teaching (see Music Education) </name>
+<school></school>
+</degree>
+
+<degree>
+<bp>BS</bp>
+<dp> </dp>
+<id>f2b45e767f4f4e1a010c98608905f716 </id>
+<letter>I</letter>
+<link>http://design.iub.edu/dsg/ </link>
+<mp></mp>
+<name>Interior Design </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp>BS</bp>
+<dp> </dp>
+<id>f2b681e07f4f4e1a010c9860424bf4cc </id>
+<letter>I</letter>
+<link>http://kelley.iu.edu/Ugrad/Academics/Curriculum/page39590.html </link>
+<mp></mp>
+<name>International Business (co-major only) </name>
+<school>Kelley School of Business</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp> </dp>
+<id>520a736c7f4f4e1c00d2fa99ff722ac6 </id>
+<letter>I</letter>
+<link>https://spea.indiana.edu/masters/degrees-certificates/public-affairs/concentrations/international-development.html </link>
+<mp>MPA</mp>
+<name>International Development </name>
+<school>School of Public and Environmental Affairs</school>
+</degree>
+
+<degree>
+<bp>BA</bp>
+<dp> </dp>
+<id>f2b74a0b7f4f4e1a010c98600c641f64 </id>
+<letter>I</letter>
+<link>http://www.indiana.edu/~intlweb/ </link>
+<mp></mp>
+<name>International Studies </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp>BA</bp>
+<dp>PhD </dp>
+<id>f2b7c7457f4f4e1a010c98601f096eba </id>
+<letter>I</letter>
+<link>http://www.indiana.edu/~frithome/ </link>
+<mp>MA</mp>
+<name>Italian </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp>BM, BS</bp>
+<dp>Minor </dp>
+<id>f2b869a37f4f4e1a010c986091729b64 </id>
+<letter>J</letter>
+<link>http://music.indiana.edu/departments/academic/jazz/degrees.shtml </link>
+<mp>MM</mp>
+<name>Jazz Studies </name>
+<school>Jacobs School of Music</school>
+</degree>
+
+<degree>
+<bp>Cert, BA</bp>
+<dp>Minor </dp>
+<id>f2b920e77f4f4e1a010c98603c16f526 </id>
+<letter>J</letter>
+<link>http://www.indiana.edu/~jsp/ </link>
+<mp>MA</mp>
+<name>Jewish Studies </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp>Cert, BA</bp>
+<dp>PhD </dp>
+<id>f2b9c7287f4f4e1a010c98608f3634c1 </id>
+<letter>J</letter>
+<link>http://journalism.indiana.edu/ </link>
+<mp>MA</mp>
+<name>Journalism </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp>BS</bp>
+<dp>PhD </dp>
+<id>f2ba55057f4f4e1a010c986052597750 </id>
+<letter>K</letter>
+<link>http://www.indiana.edu/~kines/ </link>
+<mp>MS</mp>
+<name>Kinesiology </name>
+<school>School of Public Health—Bloomington</school>
+</degree>
+
+<degree>
+<bp>Cert, BS</bp>
+<dp> </dp>
+<id>f2bcba677f4f4e1a010c9860ecb12f58 </id>
+<letter>L</letter>
+<link>http://labor.iu.edu/degree_options/degree_options.html </link>
+<mp></mp>
+<name>Labor Studies </name>
+<school>School of Social Work</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp>Minor </dp>
+<id>43dba7e37f4f4e1a0072da3da3e591af </id>
+<letter>L</letter>
+<link>http://www.indiana.edu/~landskib/ </link>
+<mp></mp>
+<name>Landscape Studies </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp>Lic, BS</bp>
+<dp> </dp>
+<id>f2bdc09e7f4f4e1a010c9860024f55ba </id>
+<letter>L</letter>
+<link>http://education.indiana.edu/undergraduate/programs/world-languages.html </link>
+<mp></mp>
+<name>Language Education/World Languages </name>
+<school>School of Education</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp> </dp>
+<id>8eed0187814f4e1a01f1815381ebb312 </id>
+<letter>L</letter>
+<link># </link>
+<mp></mp>
+<name>Language Sciences (see Speech and Hearing Sciences) </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp>BA</bp>
+<dp>PhD </dp>
+<id>f2be48f87f4f4e1a010c9860f8e03b27 </id>
+<letter>L</letter>
+<link>http://www.indiana.edu/~classics/ </link>
+<mp>MA, MAT</mp>
+<name>Latin </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp>Cert, Minor</bp>
+<dp>Cert, Minor </dp>
+<id>f2bfbe537f4f4e1a010c9860704b5046 </id>
+<letter>L</letter>
+<link>http://www.iub.edu/~clacs/academics/ </link>
+<mp>MA</mp>
+<name>Latin American and Caribbean Studies </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp>Minor</bp>
+<dp>Minor </dp>
+<id>f2c04ca57f4f4e1a010c9860001b0fc5 </id>
+<letter>L</letter>
+<link>http://www.indiana.edu/~latino/ </link>
+<mp></mp>
+<name>Latino Studies </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp>SJD, JD </dp>
+<id>f2c419137f4f4e1a010c9860a046c0e3 </id>
+<letter>L</letter>
+<link>http://law.indiana.edu/degrees/ </link>
+<mp>MCL, Cert, LLM</mp>
+<name>Law </name>
+<school>Maurer School of Law</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp>PhD </dp>
+<id>54d7b128814f4e1a63de5fd6b25ef6f0 </id>
+<letter>L</letter>
+<link>http://www.law.indiana.edu/degrees/graduate/ </link>
+<mp></mp>
+<name>Law and Social Science </name>
+<school>Maurer School of Law</school>
+</degree>
+
+<degree>
+<bp>Minor, BSPA</bp>
+<dp> </dp>
+<id>f2c7f0d57f4f4e1a010c9860588d0ebc </id>
+<letter>L</letter>
+<link>https://spea.indiana.edu/undergraduate/majors-minors-certificates/law-public-policy.html </link>
+<mp></mp>
+<name>Law and Public Policy </name>
+<school>School of Public and Environmental Affairs</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp> </dp>
+<id>f2c5a0697f4f4e1a010c98607376c153 </id>
+<letter>L</letter>
+<link># </link>
+<mp></mp>
+<name>Leadership, Ethics, and Social Action (see Political and Civic Engagement) </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp>PhD </dp>
+<id>f2c6b5de7f4f4e1a010c98602540ee42 </id>
+<letter>L</letter>
+<link>http://education.indiana.edu/graduate/programs/learning-sciences/index.html </link>
+<mp>Cert, MS</mp>
+<name>Learning Sciences </name>
+<school>School of Education</school>
+</degree>
+
+<degree>
+<bp>BS</bp>
+<dp> </dp>
+<id>f2c76f797f4f4e1a010c986037ab0699 </id>
+<letter>L</letter>
+<link>http://www.kelley.iu.edu/buslaw/ </link>
+<mp></mp>
+<name>Legal Studies </name>
+<school>Kelley School of Business</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp>PhD </dp>
+<id>f2c8790d7f4f4e1a010c986001503037 </id>
+<letter>L</letter>
+<link>http://www.publichealth.indiana.edu/departments/recreation-park-tourism-studies/degrees/index.shtml </link>
+<mp></mp>
+<name>Leisure Behavior </name>
+<school>School of Public Health—Bloomington</school>
+</degree>
+
+<degree>
+<bp>Cert</bp>
+<dp> </dp>
+<id>f2c904287f4f4e1a010c9860f3002080 </id>
+<letter>L</letter>
+<link>http://www.indiana.edu/~lamp/ </link>
+<mp></mp>
+<name>Liberal Arts and Management Program </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp>SpLIS </dp>
+<id>f2c9ee627f4f4e1a010c98608c06e981 </id>
+<letter>L</letter>
+<link>http://www.soic.indiana.edu/graduate/degrees/information-library-science/master-library-science/index.html </link>
+<mp>MLS</mp>
+<name>Library Science </name>
+<school>School of Informatics and Computing</school>
+</degree>
+
+<degree>
+<bp>BA</bp>
+<dp>PhD </dp>
+<id>f2cbcc997f4f4e1a010c9860159cc50d </id>
+<letter>L</letter>
+<link>http://www.indiana.edu/~lingdept/ </link>
+<mp>MA</mp>
+<name>Linguistics </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp>EdD, PhD </dp>
+<id>40bc429b814f4e1a26d5758e1908030f </id>
+<letter>L</letter>
+<link>http://education.indiana.edu/graduate/programs/literacy-culture-language/index.html </link>
+<mp>MS, Cert, EdS</mp>
+<name>Literacy, Culture, and Language Education </name>
+<school>School of Education</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp> </dp>
+<id>5233cd167f4f4e1c00d2fa99722d8cc9 </id>
+<letter>L</letter>
+<link>https://spea.indiana.edu/masters/degrees-certificates/public-affairs/concentrations/local-government.html </link>
+<mp>MPA</mp>
+<name>Local Government Management </name>
+<school>School of Public and Environmental Affairs</school>
+</degree>
+
+<degree>
+<bp>BS</bp>
+<dp> </dp>
+<id>f2dbe51f7f4f4e1a010c9860f01fe5ca </id>
+<letter>M</letter>
+<link>http://kelley.iu.edu/management/ </link>
+<mp>MBA</mp>
+<name>Management </name>
+<school>Kelley School of Business</school>
+</degree>
+
+<degree>
+<bp>BS</bp>
+<dp> </dp>
+<id>af61cd7a814f4e1a3c572554c01d8012 </id>
+<letter>M</letter>
+<link>https://spea.indiana.edu/undergraduate/majors-minors-certificates/management.html </link>
+<mp></mp>
+<name>Management </name>
+<school>School of Public and Environmental Affairs</school>
+</degree>
+
+<degree>
+<bp>BS</bp>
+<dp>PhD </dp>
+<id>f2dd30dd7f4f4e1a010c9860e294e18a </id>
+<letter>M</letter>
+<link>http://www.kelley.iu.edu/marketing/ </link>
+<mp>MBA</mp>
+<name>Marketing </name>
+<school>Kelley School of Business</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp>PhD </dp>
+<id>f2dda1077f4f4e1a010c98609a28c8ca </id>
+<letter>M</letter>
+<link>http://journalism.indiana.edu/graduate/phd-in-mass-communication/ </link>
+<mp></mp>
+<name>Mass Communication </name>
+<school>School of Journalism</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp>PhD </dp>
+<id>54c472f5814f4e1a63de5fd69c3a587b </id>
+<letter>M</letter>
+<link>http://www.indiana.edu/~telecom/graduate/ </link>
+<mp></mp>
+<name>Mass Communication </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp>BA, BS</bp>
+<dp>PhD </dp>
+<id>f2de9ff17f4f4e1a010c98602d7ac2fa </id>
+<letter>M</letter>
+<link>http://www.math.indiana.edu/ </link>
+<mp>MAT, MA</mp>
+<name>Mathematics </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp>PhD, EdD </dp>
+<id>f2df7f5e7f4f4e1a010c986064d9b977 </id>
+<letter>M</letter>
+<link>http://education.indiana.edu/graduate/programs/mathematics/index.html </link>
+<mp>MS</mp>
+<name>Mathematics Education </name>
+<school>School of Education</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp> </dp>
+<id>f2de16bf7f4f4e1a010c986036e12ab5 </id>
+<letter>M</letter>
+<link>http://www.indiana.edu/~medphyms/ </link>
+<mp>MS</mp>
+<name>Medical Physics </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp>PhD, MD </dp>
+<id>f2e082687f4f4e1a010c98602af4e8de </id>
+<letter>M</letter>
+<link>http://www.bloomington.medicine.iu.edu/ </link>
+<mp>MS</mp>
+<name>Medical Sciences </name>
+<school>School of Medicine</school>
+</degree>
+
+<degree>
+<bp>Cert</bp>
+<dp>Minor </dp>
+<id>f2e1b2e57f4f4e1a010c986017c71be3 </id>
+<letter>M</letter>
+<link>http://www.indiana.edu/~medieval/index.shtml </link>
+<mp>Cert</mp>
+<name>Medieval Studies </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp> </dp>
+<id>455a521c7f4f4e1a01ba4b54c9af2925 </id>
+<letter>M</letter>
+<link>http://www.indiana.edu/~finaweb/test/cms/fina/areas/metals/ </link>
+<mp>MAT, MFA</mp>
+<name>Metalsmithing and Jewelry Design </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp> </dp>
+<id>fc882e7f7f4f4e1a010c9860dada4959 </id>
+<letter>M</letter>
+<link># </link>
+<mp></mp>
+<name>Methodology (see Inquiry Methodology) </name>
+<school></school>
+</degree>
+
+<degree>
+<bp>BS, BA</bp>
+<dp>PhD </dp>
+<id>f2e3b3e07f4f4e1a010c9860927e4897 </id>
+<letter>M</letter>
+<link>http://www.bio.indiana.edu/ </link>
+<mp>MS</mp>
+<name>Microbiology </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp>PhD </dp>
+<id>54c77c2b814f4e1a63de5fd69b51a84c </id>
+<letter>M</letter>
+<link>http://www.bio.indiana.edu/graduate/mcdb/ </link>
+<mp></mp>
+<name>Molecular, Cellular, and Developmental Biology </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp>PhD </dp>
+<id>f2e4a5497f4f4e1a010c9860ee0d3995 </id>
+<letter>M</letter>
+<link>http://www.publichealth.indiana.edu/program-areas/motor-control/index.shtml </link>
+<mp>MS</mp>
+<name>Motor Learning and Control </name>
+<school>School of Public Health—Bloomington</school>
+</degree>
+
+<degree>
+<bp>BS, BM, BME</bp>
+<dp>PhD, DM </dp>
+<id>f2e5637b7f4f4e1a010c9860400171a8 </id>
+<letter>M</letter>
+<link>http://www.music.indiana.edu/admissions/ </link>
+<mp>MME, MM, MA</mp>
+<name>Music </name>
+<school>Jacobs School of Music</school>
+</degree>
+
+<degree>
+<bp>BME</bp>
+<dp>DME, PhD </dp>
+<id>f2e64d007f4f4e1a010c9860103643d2 </id>
+<letter>M</letter>
+<link>http://music.indiana.edu/departments/academic/music-education/degrees.shtml </link>
+<mp>MME, MS</mp>
+<name>Music Education </name>
+<school>Jacobs School of Music</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp>PhD </dp>
+<id>f300e1637f4f4e1a010c98602867598e </id>
+<letter>M</letter>
+<link>http://www.soic.indiana.edu/graduate/degrees/informatics/music-informatics/ </link>
+<mp>MS</mp>
+<name>Music Informatics </name>
+<school>School of Informatics and Computing</school>
+</degree>
+
+<degree>
+<bp>Minor</bp>
+<dp>PhD </dp>
+<id>f3038cb77f4f4e1a010c98605d948dbf </id>
+<letter>M</letter>
+<link>http://music.indiana.edu/departments/academic/music-theory/degrees/ </link>
+<mp>MM</mp>
+<name>Music Theory </name>
+<school>Jacobs School of Music</school>
+</degree>
+
+<degree>
+<bp>BFA</bp>
+<dp> </dp>
+<id>f304593d7f4f4e1a010c98606f69aca8 </id>
+<letter>M</letter>
+<link>http://www.indiana.edu/~thtr/academics/BFA.shtml </link>
+<mp></mp>
+<name>Musical Theatre </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp>PhD </dp>
+<id>f305874f7f4f4e1a010c9860b93aab38 </id>
+<letter>M</letter>
+<link>http://music.indiana.edu/departments/academic/musicology/degrees/ </link>
+<mp>MA</mp>
+<name>Musicology </name>
+<school>Jacobs School of Music</school>
+</degree>
+
+<degree>
+<bp>BA</bp>
+<dp>PhD </dp>
+<id>f73806f77f4f4e1c01928b7c15ecdb92 </id>
+<letter>N</letter>
+<link>http://www.indiana.edu/~nelc/ </link>
+<mp>MA</mp>
+<name>Near Eastern Languages and Cultures </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp>BS</bp>
+<dp>PhD </dp>
+<id>23c6dc67814f4e1c015589d4d2773851 </id>
+<letter>N</letter>
+<link>http://www.indiana.edu/~neurosci </link>
+<mp></mp>
+<name>Neuroscience </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp>Cert</bp>
+<dp> </dp>
+<id>54c87e59814f4e1a63de5fd673a73be3 </id>
+<letter>N</letter>
+<link>http://www.indiana.edu/~telecom/undergraduate/certificate_media.shtml </link>
+<mp></mp>
+<name>New Media and Interactive Storytelling </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp> </dp>
+<id>fc8621667f4f4e1a010c98602f04b05c </id>
+<letter>N</letter>
+<link># </link>
+<mp></mp>
+<name>New Venture and Business Development (see Business Administration) </name>
+<school></school>
+</degree>
+
+<degree>
+<bp>Minor</bp>
+<dp> </dp>
+<id>afbd2579814f4e1a3c5725547fa40598 </id>
+<letter>N</letter>
+<link>http://www.indiana.edu/~germanic/dutch/Norwegian.shtml </link>
+<mp></mp>
+<name>Norwegian </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp>BS</bp>
+<dp> </dp>
+<id>f745e12d7f4f4e1c01928b7c2749e4d6 </id>
+<letter>N</letter>
+<link>http://www.indiana.edu/~iubnurse/bsn.html </link>
+<mp></mp>
+<name>Nursing </name>
+<school>School of Nursing</school>
+</degree>
+
+<degree>
+<bp>Minor</bp>
+<dp> </dp>
+<id>b208c153814f4e1a53dee19d2057cf99 </id>
+<letter>N</letter>
+<link>http://www.publichealth.indiana.edu/departments/applied-health-science/degrees/index.shtml </link>
+<mp></mp>
+<name>Nutrition </name>
+<school>School of Public Health—Bloomington</school>
+</degree>
+
+<degree>
+<bp>BS</bp>
+<dp> </dp>
+<id>f7473d367f4f4e1c01928b7cba260fdb </id>
+<letter>N</letter>
+<link>http://www.publichealth.indiana.edu/departments/applied-health-science/index.shtml </link>
+<mp>MS</mp>
+<name>Nutrition Science </name>
+<school>School of Public Health—Bloomington</school>
+</degree>
+
+<degree>
+<bp>BM</bp>
+<dp>DM </dp>
+<id>f747eb5f7f4f4e1c01928b7cff323ccc </id>
+<letter>O</letter>
+<link>http://music.indiana.edu/departments/academic/woodwinds/areas/oboe/ </link>
+<mp>MM</mp>
+<name>Oboe </name>
+<school>Jacobs School of Music</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp>Minor </dp>
+<id>06052594814f4e1a4609ac80c6bf32a0 </id>
+<letter>O</letter>
+<link>http://music.indiana.edu/departments/academic/opera/degrees.shtml </link>
+<mp></mp>
+<name>Opera Studies </name>
+<school>Jacobs School of Music</school>
+</degree>
+
+<degree>
+<bp>BS</bp>
+<dp>PhD </dp>
+<id>f74e893f7f4f4e1c01928b7c445bd692 </id>
+<letter>O</letter>
+<link>http://www.kelley.iu.edu/odt/ </link>
+<mp></mp>
+<name>Operations Management </name>
+<school>Kelley School of Business</school>
+</degree>
+
+<degree>
+<bp>Cert</bp>
+<dp> </dp>
+<id>af54ebe5814f4e1a3c5725540773b206 </id>
+<letter>O</letter>
+<link>http://www.optometry.iu.edu/academics/degrees/index.shtml </link>
+<mp></mp>
+<name>Optometric Technology/Opticianry </name>
+<school>School of Optometry</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp>OD </dp>
+<id>f75081727f4f4e1c01928b7cde543156 </id>
+<letter>O</letter>
+<link>http://www.optometry.iu.edu/academics/degrees/doctor-optometry/index.shtml </link>
+<mp></mp>
+<name>Optometry </name>
+<school>School of Optometry</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp>DM </dp>
+<id>f75117707f4f4e1c01928b7ce3ba6949 </id>
+<letter>O</letter>
+<link>http://music.indiana.edu/departments/academic/orchestral-conducting/degrees.shtml </link>
+<mp>MM</mp>
+<name>Orchestral Conducting </name>
+<school>Jacobs School of Music</school>
+</degree>
+
+<degree>
+<bp>BME, BM</bp>
+<dp>DM </dp>
+<id>f751b3467f4f4e1c01928b7cd7013572 </id>
+<letter>O</letter>
+<link>http://music.indiana.edu/departments/academic/organ/degrees.shtml </link>
+<mp>MM</mp>
+<name>Organ </name>
+<school>Jacobs School of Music</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp>DM </dp>
+<id>f75272a27f4f4e1c01928b7c7d864096 </id>
+<letter>O</letter>
+<link>http://music.indiana.edu/departments/academic/organ/degrees.shtml </link>
+<mp>MM</mp>
+<name>Organ and Sacred Music </name>
+<school>Jacobs School of Music</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp>PhD </dp>
+<id>f753dbca7f4f4e1c01928b7ccc3818ce </id>
+<letter>O</letter>
+<link>http://kelley.iu.edu/Management/Doctoral/page14579.html </link>
+<mp></mp>
+<name>Organizational Behavior and Human Resource Management </name>
+<school>Kelley School of Business</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp> </dp>
+<id>f75490ff7f4f4e1c01928b7c646ed36c </id>
+<letter>O</letter>
+<link>http://www.publichealth.indiana.edu/departments/recreation-park-tourism-studies/index.shtml </link>
+<mp>MS</mp>
+<name>Outdoor Recreation </name>
+<school>School of Public Health—Bloomington</school>
+</degree>
+
+<degree>
+<bp>BS</bp>
+<dp> </dp>
+<id>54e3010e814f4e1a63de5fd67ebd622e </id>
+<letter>O</letter>
+<link>http://www.publichealth.indiana.edu/departments/recreation-park-tourism-studies/index.shtml </link>
+<mp></mp>
+<name>Outdoor Recreation, Parks, and Human Ecology </name>
+<school>School of Public Health—Bloomington</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp> </dp>
+<id>f75bc1dc7f4f4e1c01928b7c45b88b60 </id>
+<letter>P</letter>
+<link>http://www.indiana.edu/~finaweb/test/cms/fina/areas/painting/ </link>
+<mp>MFA</mp>
+<name>Painting </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp> </dp>
+<id>54ffde51814f4e1a63de5fd60543da7f </id>
+<letter>P</letter>
+<link>http://www.publichealth.indiana.edu/current-students/distance-education/park-public-lands.shtml </link>
+<mp>MS</mp>
+<name>Park and Public Lands Management </name>
+<school>School of Public Health—Bloomington</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp>PhD </dp>
+<id>550974e7814f4e1a63de5fd6f89f96c2 </id>
+<letter>P</letter>
+<link>http://grad.medicine.iu.edu/degree-programs/ </link>
+<mp>MS</mp>
+<name>Pathology </name>
+<school>School of Medicine</school>
+</degree>
+
+<degree>
+<bp>BME, BM, BS</bp>
+<dp>DM </dp>
+<id>f7601e7a7f4f4e1c01928b7cd2156ea6 </id>
+<letter>P</letter>
+<link>http://music.indiana.edu/departments/academic/percussion/degrees.shtml </link>
+<mp>MM</mp>
+<name>Percussion </name>
+<school>Jacobs School of Music</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp>PhD </dp>
+<id>f761a8497f4f4e1c01928b7c0903c882 </id>
+<letter>P</letter>
+<link>http://www.bloomington.medicine.iu.edu/ </link>
+<mp>MS</mp>
+<name>Pharmacology </name>
+<school>School of Medicine</school>
+</degree>
+
+<degree>
+<bp>BA</bp>
+<dp>PhD </dp>
+<id>f7632a177f4f4e1c01928b7c55f2846d </id>
+<letter>P</letter>
+<link>http://www.indiana.edu/~phil/ </link>
+<mp>MA</mp>
+<name>Philosophy </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp> </dp>
+<id>f770152d7f4f4e1c01928b7cfca29c34 </id>
+<letter>P</letter>
+<link>http://www.indiana.edu/~finaweb/test/cms/fina/areas/photography/ </link>
+<mp>MAT, MFA</mp>
+<name>Photography </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp> </dp>
+<id>550098b6814f4e1a63de5fd6722ab994 </id>
+<letter>P</letter>
+<link>http://www.publichealth.indiana.edu/program-areas/health-fitness-specialist/masters.shtml </link>
+<mp>MS</mp>
+<name>Physical Activity, Fitness and Wellness </name>
+<school>School of Public Health—Bloomington</school>
+</degree>
+
+<degree>
+<bp>BS</bp>
+<dp> </dp>
+<id>f770ac667f4f4e1c01928b7c61b733e3 </id>
+<letter>P</letter>
+<link>http://www.publichealth.indiana.edu/program-areas/physical-education/index.shtml </link>
+<mp></mp>
+<name>Physical Education Teacher Education </name>
+<school>School of Public Health—Bloomington</school>
+</degree>
+
+<degree>
+<bp>BA, BS</bp>
+<dp>PhD </dp>
+<id>f772542d7f4f4e1c01928b7cebeebaea </id>
+<letter>P</letter>
+<link>http://www.indiana.edu/~iubphys/ </link>
+<mp>MAT, MS</mp>
+<name>Physics </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp>PhD </dp>
+<id>f77335ec7f4f4e1c01928b7caa29ba5b </id>
+<letter>P</letter>
+<link>http://www.bloomington.medicine.iu.edu/ </link>
+<mp>MS</mp>
+<name>Physiology </name>
+<school>School of Medicine</school>
+</degree>
+
+<degree>
+<bp>BS, BM</bp>
+<dp>DM </dp>
+<id>f773ec227f4f4e1c01928b7ca99856ed </id>
+<letter>P</letter>
+<link>http://music.indiana.edu/departments/academic/piano/degrees/ </link>
+<mp>MM</mp>
+<name>Piano </name>
+<school>Jacobs School of Music</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp>PhD </dp>
+<id>54c91d6c814f4e1a63de5fd6a3e232d0 </id>
+<letter>P</letter>
+<link>http://www.bio.indiana.edu/graduate/mcdb/ </link>
+<mp>MS</mp>
+<name>Plant Sciences </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp>BSPA</bp>
+<dp> </dp>
+<id>f77495357f4f4e1c01928b7c8b67605c </id>
+<letter>P</letter>
+<link>https://spea.indiana.edu/undergraduate/majors-minors-certificates/policy-analysis.html </link>
+<mp>MPA</mp>
+<name>Policy Analysis </name>
+<school>School of Public and Environmental Affairs</school>
+</degree>
+
+<degree>
+<bp>Cert</bp>
+<dp> </dp>
+<id>de71b1da7f4f4e1c015a23045018de2c </id>
+<letter>P</letter>
+<link>http://pace.indiana.edu/program/ </link>
+<mp></mp>
+<name>Political and Civic Engagement </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp>BA</bp>
+<dp>PhD </dp>
+<id>f77535cd7f4f4e1c01928b7c30abc89e </id>
+<letter>P</letter>
+<link>http://www.indiana.edu/~iupolsci/ </link>
+<mp></mp>
+<name>Political Science </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp> </dp>
+<id>fc8670dd7f4f4e1a010c9860fa014b11 </id>
+<letter>P</letter>
+<link># </link>
+<mp></mp>
+<name>Pollution Control Technologies and Remediation (see Environmental Science) </name>
+<school></school>
+</degree>
+
+<degree>
+<bp>BA</bp>
+<dp>PhD </dp>
+<id>f777833f7f4f4e1c01928b7c7f91a319 </id>
+<letter>P</letter>
+<link>http://www.indiana.edu/~spanport/ </link>
+<mp>MA</mp>
+<name>Portuguese </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp> </dp>
+<id>f77846197f4f4e1c01928b7c3c20be6d </id>
+<letter>P</letter>
+<link>http://www.indiana.edu/~finaweb/test/cms/fina/areas/printmaking/ </link>
+<mp>MAT, MFA</mp>
+<name>Printmaking </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp> </dp>
+<id>b1dfbe79814f4e1a53dee19dc71ec6a0 </id>
+<letter>P</letter>
+<link>http://www.publichealth.indiana.edu/departments/applied-health-science/degrees/index.shtml </link>
+<mp>MPH</mp>
+<name>Professional Health Education </name>
+<school>School of Public Health—Bloomington</school>
+</degree>
+
+<degree>
+<bp>BS, BA</bp>
+<dp>PhD </dp>
+<id>f77c6dc67f4f4e1c01928b7ccbda91c6 </id>
+<letter>P</letter>
+<link>http://psych.indiana.edu/ </link>
+<mp></mp>
+<name>Psychology </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp>Cert, BSPA</bp>
+<dp>PhD </dp>
+<id>f77d3d0d7f4f4e1c01928b7c1d6b08fc </id>
+<letter>P</letter>
+<link>https://spea.indiana.edu/undergraduate/majors-minors-certificates/index.html </link>
+<mp>MPA</mp>
+<name>Public Affairs </name>
+<school>School of Public and Environmental Affairs</school>
+</degree>
+
+<degree>
+<bp>BSPA</bp>
+<dp> </dp>
+<id>f77ebe9c7f4f4e1c01928b7cc6ff5a77 </id>
+<letter>P</letter>
+<link>https://spea.indiana.edu/undergraduate/majors-minors-certificates/public-financial-management.html </link>
+<mp>Cert, MPA</mp>
+<name>Public Financial Management </name>
+<school>School of Public and Environmental Affairs</school>
+</degree>
+
+<degree>
+<bp>Minor</bp>
+<dp> </dp>
+<id>b2097e03814f4e1a53dee19dc00b4327 </id>
+<letter>P</letter>
+<link>http://www.publichealth.indiana.edu/departments/applied-health-science/degrees/index.shtml </link>
+<mp></mp>
+<name>Public Health </name>
+<school>School of Public Health—Bloomington</school>
+</degree>
+
+<degree>
+<bp>Cert</bp>
+<dp> </dp>
+<id>f780aad57f4f4e1c01928b7cfdb08463 </id>
+<letter>P</letter>
+<link>https://spea.indiana.edu/undergraduate/majors-minors-certificates/certificates.html </link>
+<mp></mp>
+<name>Public Health </name>
+<school>School of Public and Environmental Affairs</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp> </dp>
+<id>f77f63d87f4f4e1c01928b7c7b6f115c </id>
+<letter>P</letter>
+<link>http://www.publichealth.indiana.edu/degrees/graduate.shtml </link>
+<mp>MPH</mp>
+<name>Public Health Administration </name>
+<school>School of Public Health—Bloomington</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp> </dp>
+<id>f2dc849e7f4f4e1a010c9860f01028f9 </id>
+<letter>P</letter>
+<link>https://spea.indiana.edu/masters/degrees-certificates/public-affairs/concentrations/public-management.html </link>
+<mp>MPA, Cert</mp>
+<name>Public Management </name>
+<school>School of Public and Environmental Affairs</school>
+</degree>
+
+<degree>
+<bp>BS</bp>
+<dp> </dp>
+<id>5502d632814f4e1a63de5fd672444068 </id>
+<letter>P</letter>
+<link>http://www.publichealth.indiana.edu/degrees/undergraduate.shtml </link>
+<mp></mp>
+<name>Public, Nonprofit, and Community Recreation </name>
+<school>School of Public Health—Bloomington</school>
+</degree>
+
+<degree>
+<bp>Cert, BSPA</bp>
+<dp> </dp>
+<id>f744eb697f4f4e1c01928b7c73fba6d0 </id>
+<letter>P</letter>
+<link>https://spea.indiana.edu/undergraduate/majors-minors-certificates/public-nonprofit-management.html </link>
+<mp>MPA, Cert</mp>
+<name>Public and Nonprofit Management </name>
+<school>School of Public and Environmental Affairs</school>
+</degree>
+
+<degree>
+<bp>BS</bp>
+<dp> </dp>
+<id>450f18807f4f4e1a01ba4b54d74dc133 </id>
+<letter>P</letter>
+<link>http://kelley.iu.edu/bepp/ </link>
+<mp></mp>
+<name>Public Policy </name>
+<school>Kelley School of Business</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp>PhD </dp>
+<id>32f226a1814f4e1a7e376ff40e87e29b </id>
+<letter>P</letter>
+<link>https://spea.indiana.edu/doctoral/degrees/public-policy.html </link>
+<mp></mp>
+<name>Public Policy </name>
+<school>School of Public and Environmental Affairs</school>
+</degree>
+
+<degree>
+<bp>BS</bp>
+<dp> </dp>
+<id>54d5f149814f4e1a63de5fd64510a2c1 </id>
+<letter>R</letter>
+<link>http://kelley.iu.edu/Ugrad/Academics/Curriculum/page39588.html </link>
+<mp></mp>
+<name>Real Estate </name>
+<school>Kelley School of Business</school>
+</degree>
+
+<degree>
+<bp>BS</bp>
+<dp> </dp>
+<id>f78288cd7f4f4e1c01928b7c427d002e </id>
+<letter>R</letter>
+<link>http://www.music.indiana.edu/departments/academic/recording-arts/ </link>
+<mp></mp>
+<name>Recording Arts </name>
+<school>Jacobs School of Music</school>
+</degree>
+
+<degree>
+<bp>BS</bp>
+<dp>PhD </dp>
+<id>f7831ec97f4f4e1c01928b7c94df143f </id>
+<letter>R</letter>
+<link>http://www.publichealth.indiana.edu/departments/recreation-park-tourism-studies/index.shtml </link>
+<mp>MS</mp>
+<name>Recreation </name>
+<school>School of Public Health—Bloomington</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp> </dp>
+<id>5503e1aa814f4e1a63de5fd661acdd5c </id>
+<letter>R</letter>
+<link>http://www.publichealth.indiana.edu/degrees/graduate.shtml </link>
+<mp>MS</mp>
+<name>Recreation Administration </name>
+<school>School of Public Health—Bloomington</school>
+</degree>
+
+<degree>
+<bp>BS</bp>
+<dp> </dp>
+<id>f7876b327f4f4e1c01928b7c4ce9681d </id>
+<letter>R</letter>
+<link>http://www.publichealth.indiana.edu/degrees/undergraduate.shtml#bs-rs </link>
+<mp></mp>
+<name>Recreational Sport Management </name>
+<school>School of Public Health—Bloomington</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp> </dp>
+<id>5504a90e814f4e1a63de5fd6a87556ed </id>
+<letter>R</letter>
+<link>http://www.publichealth.indiana.edu/degrees/graduate.shtml </link>
+<mp>MS</mp>
+<name>Recreational Sports Administration </name>
+<school>School of Public Health—Bloomington</school>
+</degree>
+
+<degree>
+<bp>BS</bp>
+<dp> </dp>
+<id>55056bfb814f4e1a63de5fd6987a0007 </id>
+<letter>R</letter>
+<link>http://www.publichealth.indiana.edu/departments/recreation-park-tourism-studies/index.shtml </link>
+<mp>MS</mp>
+<name>Recreational Therapy </name>
+<school>School of Public Health—Bloomington</school>
+</degree>
+
+<degree>
+<bp>BA</bp>
+<dp>PhD </dp>
+<id>f78809807f4f4e1c01928b7c801f67ef </id>
+<letter>R</letter>
+<link>http://indiana.edu/~relstud/ </link>
+<mp>MA</mp>
+<name>Religious Studies </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp>Minor, Cert </dp>
+<id>1c60f4e97f4f4e1c00d5bb2fb5064c8d </id>
+<letter>R</letter>
+<link>http://www.indiana.edu/~rena/ </link>
+<mp></mp>
+<name>Renaissance Studies </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp>Minor</bp>
+<dp>Cert, Minor </dp>
+<id>f78bda727f4f4e1c01928b7cf537da66 </id>
+<letter>R</letter>
+<link>http://www.indiana.edu/~reeiweb/ </link>
+<mp>MA</mp>
+<name>Russian and East European Studies </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp>BS, Minor</bp>
+<dp> </dp>
+<id>55067481814f4e1a63de5fd6e5f59cd9 </id>
+<letter>S</letter>
+<link>http://www.publichealth.indiana.edu/departments/applied-health-science/degrees/index.shtml </link>
+<mp></mp>
+<name>Safety </name>
+<school>School of Public Health—Bloomington</school>
+</degree>
+
+<degree>
+<bp>Cert</bp>
+<dp> </dp>
+<id>f79279657f4f4e1c01928b7c41151b05 </id>
+<letter>S</letter>
+<link>http://www.publichealth.indiana.edu/degrees/graduate.shtml </link>
+<mp>MS</mp>
+<name>Safety Management </name>
+<school>School of Public Health—Bloomington</school>
+</degree>
+
+<degree>
+<bp>BM</bp>
+<dp>DM </dp>
+<id>f7931b317f4f4e1c01928b7cfd530052 </id>
+<letter>S</letter>
+<link>http://music.indiana.edu/departments/academic/woodwinds/areas/saxophone/ </link>
+<mp>MM</mp>
+<name>Saxophone </name>
+<school>Jacobs School of Music</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp> </dp>
+<id>f793a15d7f4f4e1c01928b7c03188cd0 </id>
+<letter>S</letter>
+<link># </link>
+<mp></mp>
+<name>School Administration (see Educational Leadership) </name>
+<school></school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp> </dp>
+<id>f794207c7f4f4e1c01928b7c6037e208 </id>
+<letter>S</letter>
+<link>http://www.publichealth.indiana.edu/degrees/graduate.shtml </link>
+<mp>MS</mp>
+<name>School and College Health Education </name>
+<school>School of Public Health—Bloomington</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp>PhD </dp>
+<id>f795f7de7f4f4e1c01928b7caed45745 </id>
+<letter>S</letter>
+<link>http://education.indiana.edu/graduate/programs/school-psychology/index.html </link>
+<mp>EdS</mp>
+<name>School Psychology </name>
+<school>School of Education</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp>EdD, PhD </dp>
+<id>54d9e54a814f4e1a63de5fd6d35bdded </id>
+<letter>S</letter>
+<link>http://education.indiana.edu/graduate/programs/science-ed/index.html </link>
+<mp>MS</mp>
+<name>Science Education </name>
+<school>School of Education</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp>Minor </dp>
+<id>afa19d6a814f4e1a3c5725544c43a497 </id>
+<letter>S</letter>
+<link>http://www.indiana.edu/~scicomp/index.shtml </link>
+<mp></mp>
+<name>Scientific Computing </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp>BFA</bp>
+<dp> </dp>
+<id>f7965c4a7f4f4e1c01928b7c8bf6842e </id>
+<letter>S</letter>
+<link>http://www.indiana.edu/~finaweb/test/cms/fina/areas/sculpture/ </link>
+<mp>MFA, MAT</mp>
+<name>Sculpture </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp>PhD </dp>
+<id>f798d16c7f4f4e1c01928b7cb121cd56 </id>
+<letter>S</letter>
+<link>http://www.indiana.edu/~dsls/degrees/ </link>
+<mp>MA</mp>
+<name>Second Language Studies </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp>EdD, PhD </dp>
+<id>40c0a271814f4e1a26d5758e0e8084fd </id>
+<letter>S</letter>
+<link>http://education.indiana.edu/graduate/programs/secondary-ed/index.html </link>
+<mp>EdS, MS</mp>
+<name>Secondary Education (graduate) </name>
+<school>School of Education</school>
+</degree>
+
+<degree>
+<bp>Lic, BS</bp>
+<dp> </dp>
+<id>f799850c7f4f4e1c01928b7c45b11d8d </id>
+<letter>S</letter>
+<link>http://education.indiana.edu/undergraduate/programs/secondary/index.html </link>
+<mp></mp>
+<name>Secondary Education (undergraduate) </name>
+<school>School of Education</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp>PhD </dp>
+<id>f79a69e17f4f4e1c01928b7c6c49cfd1 </id>
+<letter>S</letter>
+<link>http://www.soic.indiana.edu/graduate/degrees/informatics/security/ </link>
+<mp>MS</mp>
+<name>Security Informatics </name>
+<school>School of Informatics and Computing</school>
+</degree>
+
+<degree>
+<bp>BA</bp>
+<dp>PhD </dp>
+<id>f79ae5047f4f4e1c01928b7cf71f59fc </id>
+<letter>S</letter>
+<link>http://www.indiana.edu/~iuslavic/ </link>
+<mp>MA, MAT</mp>
+<name>Slavic Languages and Literatures </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp> </dp>
+<id>5237a2fa7f4f4e1c00d2fa99acba5871 </id>
+<letter>S</letter>
+<link>http://www.indiana.edu/~spea/career_development/about_us/career_development/career_guides/social_enterprise.shtml </link>
+<mp>Cert</mp>
+<name>Social Entrepreneurship </name>
+<school>School of Public and Environmental Affairs</school>
+</degree>
+
+<degree>
+<bp>Minor</bp>
+<dp> </dp>
+<id>f79c8e5e7f4f4e1c01928b7cfd653905 </id>
+<letter>S</letter>
+<link>http://www.indiana.edu/~soc/ug_degree.html </link>
+<mp></mp>
+<name>Social Science and Medicine </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp>PhD, EdD </dp>
+<id>f79daa7c7f4f4e1c01928b7caa151a20 </id>
+<letter>S</letter>
+<link>http://education.indiana.edu/graduate/programs/social-studies-ed/index.html </link>
+<mp>MS</mp>
+<name>Social Studies Education </name>
+<school>School of Education</school>
+</degree>
+
+<degree>
+<bp>BSW</bp>
+<dp> </dp>
+<id>f79f2b177f4f4e1c01928b7cd44d4628 </id>
+<letter>S</letter>
+<link>http://socialwork.iub.edu/ </link>
+<mp></mp>
+<name>Social Work </name>
+<school>School of Social Work</school>
+</degree>
+
+<degree>
+<bp>BA</bp>
+<dp>PhD </dp>
+<id>f79fc3147f4f4e1c01928b7ccf8c5af7 </id>
+<letter>S</letter>
+<link>http://www.indiana.edu/~soc/ </link>
+<mp>MA</mp>
+<name>Sociology </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp>Minor</bp>
+<dp> </dp>
+<id>f7a091b17f4f4e1c01928b7c54375449 </id>
+<letter>S</letter>
+<link>http://www.indiana.edu/~soc/ug_degree.html#business </link>
+<mp></mp>
+<name>Sociology of Work and Business </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp>BA</bp>
+<dp>PhD </dp>
+<id>f7a23a977f4f4e1c01928b7c13456cfa </id>
+<letter>S</letter>
+<link>http://www.indiana.edu/~spanport/ </link>
+<mp>MA, MAT</mp>
+<name>Spanish </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp> </dp>
+<id>f7a395c67f4f4e1c01928b7cb32f3832 </id>
+<letter>S</letter>
+<link># </link>
+<mp></mp>
+<name>Spatial Analysis (see Geographic Information Science) </name>
+<school></school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp>PhD </dp>
+<id>40c7f1f4814f4e1a26d5758ef2681674 </id>
+<letter>S</letter>
+<link>http://education.indiana.edu/graduate/programs/special-ed/index.html </link>
+<mp>Lic, MS, EdS</mp>
+<name>Special Education (graduate) </name>
+<school>School of Education</school>
+</degree>
+
+<degree>
+<bp>BS</bp>
+<dp> </dp>
+<id>f7a498767f4f4e1c01928b7cbcb434b4 </id>
+<letter>S</letter>
+<link>http://education.indiana.edu/undergraduate/programs/special.html </link>
+<mp></mp>
+<name>Special Education (undergraduate) </name>
+<school>School of Education</school>
+</degree>
+
+<degree>
+<bp>BS, BA</bp>
+<dp>AuD, PhD </dp>
+<id>f7a5ee1e7f4f4e1c01928b7c872a6b1f </id>
+<letter>S</letter>
+<link>http://www.indiana.edu/~sphs/ </link>
+<mp>MA</mp>
+<name>Speech and Hearing Sciences </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp>BS, BA</bp>
+<dp> </dp>
+<id>f7a67c777f4f4e1c01928b7c92b4dedf </id>
+<letter>S</letter>
+<link>http://www.indiana.edu/~sphs/ </link>
+<mp>MA</mp>
+<name>Speech-Language Pathology </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp>BS</bp>
+<dp> </dp>
+<id>f7a765617f4f4e1c01928b7c7a04f19f </id>
+<letter>S</letter>
+<link>http://www.publichealth.indiana.edu/program-areas/sport-communication/index.shtml </link>
+<mp></mp>
+<name>Sport Communication </name>
+<school>School of Public Health—Bloomington</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp>PhD </dp>
+<id>f7a7f38c7f4f4e1c01928b7cab148f50 </id>
+<letter>S</letter>
+<link>http://www.publichealth.indiana.edu/program-areas/sport-marketing-management-doctoral/index.shtml </link>
+<mp></mp>
+<name>Sport Management </name>
+<school>School of Public Health—Bloomington</school>
+</degree>
+
+<degree>
+<bp>BS</bp>
+<dp> </dp>
+<id>f7a867067f4f4e1c01928b7c00936386 </id>
+<letter>S</letter>
+<link>http://www.publichealth.indiana.edu/program-areas/sport-marketing-management-undergrad/index.shtml </link>
+<mp></mp>
+<name>Sport Marketing and Management </name>
+<school>School of Public Health—Bloomington</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp>PhD </dp>
+<id>54cc3b52814f4e1a63de5fd64f319684 </id>
+<letter>S</letter>
+<link>http://stat.indiana.edu/grad/ </link>
+<mp>MS</mp>
+<name>Statistical Science </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp>BS</bp>
+<dp> </dp>
+<id>f7aa34437f4f4e1c01928b7ce144ba14 </id>
+<letter>S</letter>
+<link>http://www.stat.indiana.edu/ </link>
+<mp></mp>
+<name>Statistics </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp> </dp>
+<id>54d6f2ef814f4e1a63de5fd66cb25ce6 </id>
+<letter>S</letter>
+<link>http://kelley.iu.edu/MBA/Academics/MajorsMinors/page38914.html </link>
+<mp>MBA</mp>
+<name>Strategic Analysis of Accounting </name>
+<school>Kelley School of Business</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp> </dp>
+<id>f7aa9e4d7f4f4e1c01928b7c5277326c </id>
+<letter>S</letter>
+<link># </link>
+<mp></mp>
+<name>Strategic Management Consulting (see Business) </name>
+<school></school>
+</degree>
+
+<degree>
+<bp>BFA, BA</bp>
+<dp> </dp>
+<id>f7ac28b87f4f4e1c01928b7cae6b3d17 </id>
+<letter>S</letter>
+<link>http://www.indiana.edu/~finaweb/fa.php </link>
+<mp>MA, MFA</mp>
+<name>Studio Art </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp> </dp>
+<id>450cf15f7f4f4e1a01ba4b54f8219ee4 </id>
+<letter>S</letter>
+<link>http://kelley.iu.edu/odt/ </link>
+<mp>MBA</mp>
+<name>Supply Chain and Operations </name>
+<school>Kelley School of Business</school>
+</degree>
+
+<degree>
+<bp>BS</bp>
+<dp> </dp>
+<id>450b68837f4f4e1a01ba4b54ba6f278f </id>
+<letter>S</letter>
+<link>http://kelley.iu.edu/odt/ </link>
+<mp></mp>
+<name>Supply Chain Management </name>
+<school>Kelley School of Business</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp> </dp>
+<id>e5b008b4814f4e1a0c5a7291d3fb9451 </id>
+<letter>S</letter>
+<link>https://spea.indiana.edu/masters/degrees-certificates/public-affairs/concentrations/sustainability.html </link>
+<mp>MPA</mp>
+<name>Sustainability and Sustainable Development </name>
+<school>School of Public and Environmental Affairs</school>
+</degree>
+
+<degree>
+<bp>BS</bp>
+<dp> </dp>
+<id>450c02d07f4f4e1a01ba4b547c8db771 </id>
+<letter>T</letter>
+<link>http://kelley.iu.edu/odt/ </link>
+<mp></mp>
+<name>Technology Management (co-major only) </name>
+<school>Kelley School of Business</school>
+</degree>
+
+<degree>
+<bp>BA</bp>
+<dp>PhD </dp>
+<id>f7ae11947f4f4e1c01928b7cba62e4c2 </id>
+<letter>T</letter>
+<link>http://www.indiana.edu/~telecom/index.shtml </link>
+<mp>MS, MA</mp>
+<name>Telecommunications </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp> </dp>
+<id>f7aedc8e7f4f4e1c01928b7c84c19c94 </id>
+<letter>T</letter>
+<link>http://www.indiana.edu/~dsls/degrees/master.shtml </link>
+<mp>MA, Cert</mp>
+<name>TESOL and Applied Linguistics </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp> </dp>
+<id>f7af70067f4f4e1c01928b7c1f21e1bf </id>
+<letter>T</letter>
+<link>http://www.indiana.edu/~finaweb/test/cms/fina/areas/textiles/ </link>
+<mp>MFA, MAT</mp>
+<name>Textiles </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp>BA</bp>
+<dp>PhD </dp>
+<id>f7b02b987f4f4e1c01928b7cf07c2c48 </id>
+<letter>T</letter>
+<link>http://www.indiana.edu/~thtr/academics/ </link>
+<mp>MA, MFA</mp>
+<name>Theatre and Drama </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp>Minor</bp>
+<dp>Cert </dp>
+<id>f7b110cf7f4f4e1c01928b7c9d7c7d5b </id>
+<letter>T</letter>
+<link>http://www.indiana.edu/~top/ </link>
+<mp>Cert</mp>
+<name>Therapeutic Outdoor Programs </name>
+<school>School of Public Health—Bloomington</school>
+</degree>
+
+<degree>
+<bp>BS</bp>
+<dp> </dp>
+<id>5507e59e814f4e1a63de5fd6e0fe4faa </id>
+<letter>T</letter>
+<link>http://www.publichealth.indiana.edu/degrees/undergraduate.shtml#bs-th </link>
+<mp></mp>
+<name>Tourism, Hospitality, and Event Management </name>
+<school>School of Public Health—Bloomington</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp> </dp>
+<id>f7b245517f4f4e1c01928b7cb39559f1 </id>
+<letter>T</letter>
+<link>http://www.publichealth.indiana.edu/degrees/graduate.shtml </link>
+<mp>MS</mp>
+<name>Tourism Management </name>
+<school>School of Public Health—Bloomington</school>
+</degree>
+
+<degree>
+<bp>BM</bp>
+<dp>DM </dp>
+<id>f7b2d9027f4f4e1c01928b7c61fc79d5 </id>
+<letter>T</letter>
+<link>http://music.indiana.edu/departments/academic/brass/areas/trombone/ </link>
+<mp>MM</mp>
+<name>Trombone </name>
+<school>Jacobs School of Music</school>
+</degree>
+
+<degree>
+<bp>BM</bp>
+<dp>DM </dp>
+<id>f7b3cf737f4f4e1c01928b7c86db3187 </id>
+<letter>T</letter>
+<link>http://music.indiana.edu/departments/academic/brass/degrees.shtml </link>
+<mp>MM</mp>
+<name>Trumpet </name>
+<school>Jacobs School of Music</school>
+</degree>
+
+<degree>
+<bp>BM</bp>
+<dp>DM </dp>
+<id>f7b487f67f4f4e1c01928b7cd3194ff8 </id>
+<letter>T</letter>
+<link>http://music.indiana.edu/departments/academic/brass/degrees.shtml </link>
+<mp>MM</mp>
+<name>Tuba </name>
+<school>Jacobs School of Music</school>
+</degree>
+
+<degree>
+<bp>Cert</bp>
+<dp> </dp>
+<id>55311906814f4e1a63de5fd6828e631b </id>
+<letter>U</letter>
+<link>https://spea.indiana.edu/undergraduate/majors-minors-certificates/certificates.html </link>
+<mp></mp>
+<name>Urban Studies </name>
+<school>School of Public and Environmental Affairs</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp>Minor </dp>
+<id>e2a0c4bb7f4f4e1c015b393a057f2a1e </id>
+<letter>V</letter>
+<link>http://www.indiana.edu/~victstu/ </link>
+<mp>Cert</mp>
+<name>Victorian Studies </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp>BM, BS</bp>
+<dp>DM </dp>
+<id>f7b662407f4f4e1c01928b7c705352fd </id>
+<letter>V</letter>
+<link>http://music.indiana.edu/departments/academic/strings/ </link>
+<mp>MM</mp>
+<name>Viola </name>
+<school>Jacobs School of Music</school>
+</degree>
+
+<degree>
+<bp>BS, BM</bp>
+<dp>DM </dp>
+<id>f7b6db077f4f4e1c01928b7c7eee5bfa </id>
+<letter>V</letter>
+<link>http://music.indiana.edu/departments/academic/strings/ </link>
+<mp>MM</mp>
+<name>Violin </name>
+<school>Jacobs School of Music</school>
+</degree>
+
+<degree>
+<bp>BM, BS</bp>
+<dp>DM </dp>
+<id>f7b75daa7f4f4e1c01928b7cfeb002ee </id>
+<letter>V</letter>
+<link>http://music.indiana.edu/departments/academic/strings/ </link>
+<mp>MM</mp>
+<name>Violoncello </name>
+<school>Jacobs School of Music</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp>PhD </dp>
+<id>f7b88dec7f4f4e1c01928b7c541c1d76 </id>
+<letter>V</letter>
+<link>http://www.optometry.iu.edu/academics/degrees/ms.shtml </link>
+<mp>MS</mp>
+<name>Vision Science </name>
+<school>School of Optometry</school>
+</degree>
+
+<degree>
+<bp>BM, BS</bp>
+<dp>DM </dp>
+<id>f7b90dd27f4f4e1c01928b7c9eb821ec </id>
+<letter>V</letter>
+<link>http://music.indiana.edu/departments/academic/voice/degrees.shtml </link>
+<mp>MM</mp>
+<name>Voice </name>
+<school>Jacobs School of Music</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp> </dp>
+<id>5532455a814f4e1a63de5fd6eb0884f2 </id>
+<letter>W</letter>
+<link>https://spea.indiana.edu/masters/degrees-certificates/environmental-science/concentrations/water-resources.html </link>
+<mp>MS</mp>
+<name>Water Resources </name>
+<school>School of Public and Environmental Affairs</school>
+</degree>
+
+<degree>
+<bp></bp>
+<dp> </dp>
+<id>f7c79ff77f4f4e1c01928b7c8067d80e </id>
+<letter>W</letter>
+<link># </link>
+<mp></mp>
+<name>Women's Studies (see Gender Studies) </name>
+<school></school>
+</degree>
+
+<degree>
+<bp>BM</bp>
+<dp>DM </dp>
+<id>f7c82b0f7f4f4e1c01928b7ca6a6094c </id>
+<letter>W</letter>
+<link>http://music.indiana.edu/departments/academic/woodwinds/ </link>
+<mp>MM</mp>
+<name>Woodwind Instruments </name>
+<school>Jacobs School of Music</school>
+</degree>
+
+<degree>
+<bp>Minor</bp>
+<dp>Minor </dp>
+<id>afb96762814f4e1a3c572554f5c4de29 </id>
+<letter>Y</letter>
+<link>http://www.indiana.edu/~germanic/dutch/#yiddish </link>
+<mp></mp>
+<name>Yiddish </name>
+<school>College of Arts and Sciences</school>
+</degree>
+
+<degree>
+<bp>BS, Minor</bp>
+<dp> </dp>
+<id>55087247814f4e1a63de5fd67308d5f3 </id>
+<letter>Y</letter>
+<link>http://www.publichealth.indiana.edu/degrees/undergraduate.shtml </link>
+<mp></mp>
+<name>Youth Development </name>
+<school>School of Public Health—Bloomington</school>
+</degree>
+
+</degrees>
